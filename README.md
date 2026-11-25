@@ -9,7 +9,7 @@ calendario del 1995 che nessuno ha mai avuto il coraggio di staccare.
 Uscite: Nord Est Giu'
 Un client MUD nuovo di zecca e' appoggiato qui.
 
-Rigel H601 M877 V209 X-96.509.285 [T] */*>> esamina client
+Betlegeuse H601 M877 V209 X-96.509.285 [T] */*>> esamina client
 ```
 
 Lo esamini con attenzione. È un client MUD per **Nebbie Arcane** (`nebbie.nebbie.it:4000`),
