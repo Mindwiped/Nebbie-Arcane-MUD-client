@@ -1,0 +1,45 @@
+#nebbie-log v1 2026-11-13 Rigel/Vega (estratti reali: eq completo, eq vuoto, inventario con quantita')
+330459	P	Rigel H539 M935 V254 X-132.811.939 [[0;40;1;36mT[0;40;37m] */*>> [0;40;37m
+335331	C	eq
+335753	L	Stai usando:
+335753	L	[ 1] <come luce>             [0;40;1;32mVerdespina[0;40;37m
+335753	L	[0;40;37m[ 2] <sul dito destro>       Un Anello dei nani[0;40;1;37m (ha un alone luminoso)[0;40;37m[0;40;1;32m (in condizioni eccellenti)[0;40;37m
+335753	L	[0;40;37m[ 3] <sul dito sinistro>     Un Anello dei nani[0;40;1;37m (ha un alone luminoso)[0;40;37m[0;40;1;32m (in condizioni eccellenti)[0;40;37m
+335753	L	[0;40;37m[ 4] <intorno al collo>      Il medaglione del Profeta[0;40;1;37m (ha un alone luminoso)[0;40;37m[0;40;1;32m (in condizioni eccellenti)[0;40;37m
+335753	L	[0;40;37m[ 5] <intorno al collo>      L'amuleto della croce obliqua
+335753	L	[ 6] <sul corpo>             La corazza dalla piastra oscura[0;40;1;32m (in condizioni eccellenti)[0;40;37m
+335753	L	[0;40;37m[ 7] <in testa>              La celata dalla visiera sussurrante[0;40;1;32m (in condizioni eccellenti)[0;40;37m
+335753	L	[0;40;37m[ 8] <sulle gambe>           I gambali dalla striscia argentata[0;40;1;32m (in condizioni eccellenti)[0;40;37m
+335753	L	[0;40;37m[ 9] <ai piedi>              I calzari dalla suola argentata[0;40;1;32m (in condizioni eccellenti)[0;40;37m
+335753	L	[0;40;37m[10] <sulle mani>            I guanti dalla presa oscura[0;40;1;32m (in condizioni eccellenti)[0;40;37m
+335753	L	[0;40;37m[11] <sulle braccia>         Gli avambracci alla lamina argentata[0;40;1;32m (in condizioni eccellenti)[0;40;37m
+335753	L	[0;40;37m[12] <come scudo>            Uno scudo della soglia intermedia[0;40;1;32m (in condizioni eccellenti)[0;40;37m
+335753	L	[0;40;37m[13] <intorno al corpo>      Lo scialle di pelle di serpente del varco[0;40;1;32m (in condizioni eccellenti)[0;40;37m
+335753	L	[0;40;37m[14] <intorno alla vita>     [0;40;35mCingolo [0;40;1;30mdell'[0;40;1;35mUltimo [0;40;1;37mRespiro[0;40;37m[0;40;1;32m (in condizioni eccellenti)[0;40;37m
+335753	L	[0;40;37m[15] <al polso destro>       La manetta sinistra brunita
+335753	L	[16] <al polso sinistro>     Braccialetti di granito[0;40;1;32m (in condizioni eccellenti)[0;40;37m
+335753	L	[0;40;37m[17] <tenuto>                Il grimorio argentato dell'indice
+335753	L	[18] <sulla schiena>         [0;40;1;31mC[0;40;1;30mompendium [0;40;1;31mM[0;40;1;30maleficarum[0;40;37m[0;40;1;33m (invisibile)[0;40;37m[0;40;1;37m (ha un alone luminoso)[0;40;37m
+335753	L	[0;40;37m[19] <all'orecchio destro>   Lobo incancrenito[0;40;1;37m (ha un alone luminoso)[0;40;37m[0;40;1;32m (in condizioni eccellenti)[0;40;37m
+335753	L	[0;40;37m[20] <all'orecchio sinistro> L'orecchino alla stella destro
+335753	L	[21] <davanti agli occhi>    Occhiali di Urzra[0;40;1;37m (ha un alone luminoso)[0;40;37m
+335753	L	[0;40;37m[22] <simbolo del clan>      [0;40;1;33mIl Glorioso Valhalla[0;40;37m
+335753	L	[0;40;37m
+335777	P	Rigel H539 M935 V254 X-132.811.939 [[0;40;1;36mT[0;40;37m] */*>> [0;40;37m
+368777	L	
+368777	L	La tua [0;40;1;33marmatura magica[0;40;37m si dissolve.
+368777	L	[0;40;37m[0;40;37m[0;40;37m
+6600	P	Vega H376 M161 V159 X-14.561.288 [] */*>> 
+6600	S	Il server segnala la fine del prompt (GA/EOR).
+13156	C	eq
+13396	L	Stai usando:
+13396	L	 Nulla.
+13396	L	
+13440	P	Vega H376 M161 V159 X-14.561.288 [] */*>> 
+195145	P	Rigel H539 M920 V255 X-132.817.037 [[0;40;1;36mT[0;40;37m[0;40;1;35mM[0;40;37m] */*>> [0;40;37m
+196690	C	inv
+196853	L	Stai trasportando:
+196853	L	[ 1] [0;40;1;33mAli di Farfalla[0;40;37m [0;40;1;37m(ha un alone luminoso)[0;40;37m[11]
+196853	L	[0;40;37m[12] [0;40;1;31mC[0;40;1;30mompendium [0;40;1;31mM[0;40;1;30maleficarum[0;40;37m[0;40;1;33m (invisibile)[0;40;37m[0;40;1;37m (ha un alone luminoso)[0;40;37m
+196853	L	[0;40;37m
+196896	P	Rigel H539 M947 V255 X-132.817.037 [[0;40;1;36mT[0;40;37m[0;40;1;35mM[0;40;37m] */*>> [0;40;37m

@@ -1,0 +1,140 @@
+#nebbie-log v1 2026-11-13 Rigel (estratti reali: look, passi a sud, run di tre stanze fino in fondo, porte della citta')
+50101	P	Rigel H539 M950 V256 X-132.817.037 [[0;40;1;36mT[0;40;37m] */*>> [0;40;37m
+50105	S	Il server segnala la fine del prompt (GA/EOR).
+71708	C	l
+71987	L	Le porte della citta'
+71987	L	Alti  bastioni  posti  dietro al ponte proteggono la citta' dalle
+71987	L	possibili  invasioni,  un  nutrito  gruppo  di  guardie svolge un
+71987	L	lavoro di sorveglianza. Per entrare in citta' occorre passare per
+71987	L	un alto portone in legno di quercia rinforzato con numerose liste
+71987	L	metalliche. A sud ci si allontana dalle mura cittadine.
+71987	L	Ad est vedi un tempio dall'aria molto antica.
+71987	L	[0;40;1;31mNon riesci a non sporcarti con il sangue che vedi ovunque![0;40;37m
+71987	L	[0;40;37m[0;40;37m[0;40;37mUscite: [0;40;1;32mNord [0;40;1;33mEst [0;40;1;34mSud
+71987	L	[0;40;37m[0;40;37m[0;40;37mA pile of gold coins.
+71987	L	Una guardia scelta
+71987	L	[0;40;37m[0;40;37m
+72035	P	Rigel H539 M950 V256 X-132.817.037 [[0;40;1;36mT[0;40;37m] */*>> [0;40;37m
+77486	C	s
+77710	C	s
+77739	L	Fuori dalle porte di Myst
+77739	L	Sei  di  fronte  alla  citta'  di Myst, la splendida capitale del
+77739	L	Principato.  Le  alte mura cittadine si sviluppano sia ad est che
+77739	L	ad    ovest.  A  sud  c'e'  il  crocevia  delle  piu'  importanti
+77739	L	carovaniere  di queste terre, un punto di passaggio obbligato per
+77739	L	i numerosi viaggiatori che solcano le lande nebbiose.
+77739	L	[0;40;1;31mC'e' del sangue ai tuoi piedi.[0;40;37m
+77739	L	[0;40;37m[0;40;37m[0;40;37mUscite: [0;40;1;32mNord [0;40;1;34mSud
+77739	L	[0;40;37m[0;40;37m[0;40;37m[0;40;1;37m-----------------
+77739	L	[0;40;37m[0;40;37m[0;40;37mUscite visibili:
+77739	L	[0;40;37m[0;40;1;32mNord  [0;40;1;37m-[0;40;37m Le porte della citta'
+77739	L	[0;40;37m[0;40;1;34mSud   [0;40;1;37m-[0;40;37m Il Crocevia
+77739	L	[0;40;37m[0;40;1;37m-----------------
+77739	L	[0;40;37m[0;40;37m[0;40;37m
+77787	P	Rigel H539 M950 V255 X-132.817.037 [[0;40;1;36mT[0;40;37m] */*>> [0;40;37m
+77876	C	s
+77987	L	Il Crocevia
+77987	L	In   questo  punto  si  intersecano  le  piu'  importanti  strade
+77987	L	carovaniere  per tutto il mondo conosciuto. C'e' anche la fermata
+77987	L	dell' efficientissima diligenza di Myst.
+77987	L	[0;40;1;31mC'e' un po di sangue qui a terra.[0;40;37m
+77987	L	[0;40;37m[0;40;37m[0;40;37mUscite: [0;40;1;32mNord [0;40;1;33mEst [0;40;1;34mSud [0;40;1;35mOvest [0;40;1;36mAlto
+77987	L	[0;40;37m[0;40;37m[0;40;37m*Dwimmerlaik, il Signore di Morgul, uno dei terribili spettri dell'anello.
+77987	L	[0;40;37m[0;40;37m[0;40;1;37m-----------------
+77987	L	[0;40;37m[0;40;37m[0;40;37mUscite visibili:
+77987	L	[0;40;37m[0;40;1;32mNord  [0;40;1;37m-[0;40;37m Fuori dalle porte di Myst
+77987	L	[0;40;37m[0;40;1;33mEst   [0;40;1;37m-[0;40;37m [0;40;32mLa strada carovaniera per le Montagne dell'est[0;40;37m
+77987	L	[0;40;37m[0;40;1;34mSud   [0;40;1;37m-[0;40;37m [0;40;1;34mLa strada carovaniera del Sud[0;40;37m
+77987	L	[0;40;37m[0;40;1;35mOvest [0;40;1;37m-[0;40;37m [0;40;1;33mLa Strada Carovaniera dell'Ovest[0;40;37m
+77987	L	[0;40;37m[0;40;1;36mAlto  [0;40;1;37m-[0;40;37m La diligenza: l'area di carico di Myst
+77987	L	[0;40;37m[0;40;1;37m-----------------
+77987	L	[0;40;37m[0;40;37m[0;40;37m
+82749	L	[0;40;37m[0;40;37m[0;40;37mLa piazza delle statue
+82749	L	In  questa  piazza  ci  sono  tre  [0;40;1;33mstatue  [0;40;37mdi  marmo  su un ampio
+82749	L	piedistallo raffiguranti gli dei. Verso est c'e' la strada per il
+82749	L	porto  fluviale,  a  sud  c'e' il ponte sul fiume mentre ad ovest
+82749	L	vedi la piazzetta del municipio.
+82749	L	[0;40;37mUscite: [0;40;1;32mNord [0;40;1;33mEst [0;40;1;34mSud [0;40;1;35mOvest
+82749	L	[0;40;37m[0;40;37m[0;40;37mUna sentinella
+82749	L	[0;40;37m[0;40;37m[0;40;1;37m-----------------
+82749	L	[0;40;37m[0;40;37m[0;40;37mUscite visibili:
+82749	L	[0;40;37m[0;40;1;32mNord  [0;40;1;37m-[0;40;37m La piazza del grande arco
+82749	L	[0;40;37m[0;40;1;33mEst   [0;40;1;37m-[0;40;37m La strada del porto
+82749	L	[0;40;37m[0;40;1;34mSud   [0;40;1;37m-[0;40;37m Viale del Grifone
+82749	L	[0;40;37m[0;40;1;35mOvest [0;40;1;37m-[0;40;37m Piazzetta del municipio (l'antro del newbie)
+82749	L	[0;40;37m[0;40;1;37m-----------------
+82749	L	[0;40;37m[0;40;37m[0;40;37mLa piazza del grande arco
+82749	L	Questa  piazza  e' caratterizzata da un enorme arco alto quasi 30
+82749	L	metri.
+82749	L	Al di sotto dell'arco si dipanano strade in ogni direzione, Verso
+82749	L	nord  c'e'  la Piazza delle Nebbie, ad est la strada Commerciale,
+82749	L	ad  ovest la strada delle Gilde mentre a sud c'e' la piazza delle
+82749	L	statue.
+82749	L	[0;40;1;31mC'e' un po di sangue qui a terra.[0;40;37m
+82749	L	[0;40;37m[0;40;37m[0;40;37mUscite: [0;40;1;32mNord [0;40;1;33mEst [0;40;1;34mSud [0;40;1;35mOvest
+82749	L	[0;40;37m[0;40;37m[0;40;37mUn piedistallo sorregge un Libro aperto forgiato nel bronzo.
+82749	L	[0;40;1;37m-----------------
+82749	L	[0;40;37m[0;40;37m[0;40;37mUscite visibili:
+82749	L	[0;40;37m[0;40;1;32mNord  [0;40;1;37m-[0;40;37m La piazza delle Nebbie
+82749	L	[0;40;37m[0;40;1;33mEst   [0;40;1;37m-[0;40;37m la Strada Commerciale
+82749	L	[0;40;37m[0;40;1;34mSud   [0;40;1;37m-[0;40;37m La piazza delle statue
+82749	L	[0;40;37m[0;40;1;35mOvest [0;40;1;37m-[0;40;37m La strada delle Gilde
+82749	L	[0;40;37m[0;40;1;37m-----------------
+82749	L	[0;40;37m[0;40;37m[0;40;37mLa piazza delle Nebbie
+82749	L	Ti  trovi  nel fulcro della citta' di Myst. Grandi statue sono al
+82749	L	centro  di  questa piazza circolare. Ai lati ci sono alti palazzi
+82749	L	splendidamente  rifiniti  da  bassorilievi nelle facciate. Ad est
+82749	L	vedi una piccola cappella, nella parte ovest della piazza vi sono
+82749	L	diversi  edifici.  A  nord  si erge imponente il Palazzo sede del
+82749	L	Governo.
+82749	L	Uscite: [0;40;1;33mEst [0;40;1;34mSud [0;40;1;35mOvest
+82749	L	[0;40;37m[0;40;37m[0;40;37mDalla Fontana della Vita l'acqua scorre incessante
+82749	L	[0;40;1;37m-----------------
+82749	L	[0;40;37m[0;40;37m[0;40;37mUscite visibili:
+82749	L	[0;40;37m[0;40;1;32mNord  [0;40;1;37m-[0;40;37m Davanti ai Cancelli
+82749	L	[0;40;37m[0;40;1;33mEst   [0;40;1;37m-[0;40;37m Ingresso alla Cappella
+82749	L	[0;40;37m[0;40;1;34mSud   [0;40;1;37m-[0;40;37m La piazza del grande arco
+82749	L	[0;40;37m[0;40;1;35mOvest [0;40;1;37m-[0;40;37m La zona occidentale della Piazza delle Nebbie
+82749	L	[0;40;37m[0;40;1;37m-----------------
+82749	L	[0;40;37m[0;40;37m[0;40;37mMi spiace, ma non riesci a correre ulteriormente.
+82749	L	
+82749	P	Rigel H539 M950 V222 X-132.817.037 [[0;40;1;36mT[0;40;37m] */*>> [0;40;37m
+85100	C	w
+85240	L	La zona occidentale della Piazza delle Nebbie
+85240	L	Sulla parte ovest della piazza si trovai l'ingresso della famosa
+83915	P	Rigel H539 M950 V250 X-132.811.939 [[0;40;1;36mT[0;40;37m] */*>> [0;40;37m
+84563	C	s
+84614	L	Viale del Grifone
+84614	L	Questo  viale  parte dalle mura cittadine e porta verso il centro
+84614	L	della  capitale  del  Principato, a nord. A sud gli alti bastioni
+84614	L	difendono la citta' dagli attacchi esterni. Per uscire dal centro
+84614	L	abitato  occorre  passare  per  il  portone  difeso dalle guardie
+84614	L	cittadine.
+84614	L	Uscite: [0;40;1;32mNord [0;40;1;34mSud
+84614	L	[0;40;37m[0;40;37m[0;40;37mUna sentinella
+84614	L	[0;40;37m[0;40;37m[0;40;1;37m-----------------
+84614	L	[0;40;37m[0;40;37m[0;40;37mUscite visibili:
+84614	L	[0;40;37m[0;40;1;32mNord  [0;40;1;37m-[0;40;37m Viale del Grifone
+84614	L	[0;40;37m[0;40;1;34mSud   [0;40;1;37m-[0;40;37m Le porte della citta'
+84614	L	[0;40;37m[0;40;1;37m-----------------
+84614	L	[0;40;37m[0;40;37m[0;40;37m
+84656	P	Rigel H539 M950 V249 X-132.811.939 [[0;40;1;36mT[0;40;37m] */*>> [0;40;37m
+85195	C	s
+85364	L	Le porte della citta'
+85364	L	Alti  bastioni  posti  dietro al ponte proteggono la citta' dalle
+85364	L	possibili  invasioni,  un  nutrito  gruppo  di  guardie svolge un
+85364	L	lavoro di sorveglianza. Per entrare in citta' occorre passare per
+85364	L	un alto portone in legno di quercia rinforzato con numerose liste
+85364	L	metalliche. A sud ci si allontana dalle mura cittadine.
+85364	L	Ad est vedi un tempio dall'aria molto antica.
+85364	L	Uscite: [0;40;1;32mNord [0;40;1;33mEst [0;40;1;34mSud
+85364	L	[0;40;37m[0;40;37m[0;40;37mLa ronda passa gridando 'Sono le 7 sette e tutto va bene!'
+85364	L	[0;40;37m[0;40;37mUna guardia scelta [6]
+85364	L	[0;40;37m[0;40;37m[0;40;1;37m-----------------
+85364	L	[0;40;37m[0;40;37m[0;40;37mUscite visibili:
+85364	L	[0;40;37m[0;40;1;32mNord  [0;40;1;37m-[0;40;37m Viale del Grifone
+85364	L	[0;40;37m[0;40;1;33mEst   [0;40;1;37m-[0;40;37m Sagrato
+85364	L	[0;40;37m[0;40;1;34mSud   [0;40;1;37m-[0;40;37m Fuori dalle porte di Myst
+85364	L	[0;40;37m[0;40;1;37m-----------------
+85364	L	[0;40;37m[0;40;37m[0;40;37m
+85424	P	Rigel H539 M950 V248 X-132.811.939 [[0;40;1;36mT[0;40;37m] */*>> [0;40;37m

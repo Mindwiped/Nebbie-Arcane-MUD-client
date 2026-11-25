@@ -1,0 +1,261 @@
+[  1] armor                           <  5>  2   5  52   5  52  52  52
+[  2] teleport                        < 33> 52  17  52  17  52  52  52
+[  3] bless                           <  5>  1  52  52  17  52  52  52
+[  4] blindness                       < 15> 14  12  52  12  52  52  52
+[  5] burning hands                   < 15> 52   6  52   6  52  52  52
+[  6] call lightning                  < 20> 45  52  18  52  52  52  52
+[  7] charm person                    < 10> 52   4  52   4  52  52  52
+[  8] chill touch                     < 15> 52   4  52   4  52  52  52
+[  9] clone                           < 40> 58  58  58  58  58  58  58
+[ 10] colour spray                    < 20> 52  14  52  14  52  52  52
+[ 11] control weather                 < 25> 26  52  15  52  52  52  52
+[ 12] create food                     <  5>  5  52  52  52  52  52  52
+[ 13] create water                    <  5>  2  52  52  52  52  52  52
+[ 14] cure blind                      <  5>  6  52  52  52  52  52  52
+[ 15] cure critic                     < 11> 10  51  13  51  51  51  51
+[ 16] cure light                      <  5>  1  50   2  50   9  52  52
+[ 17] curse                           < 20> 12  13  52  13  52  52  52
+[ 18] detect evil                     <  5>  1  52   6  52  52  52  52
+[ 19] detect invisibility             <  5>  5   2   7   2  52  52  52
+[ 20] detect magic                    <  5>  3   1   5   1  52  52  52
+[ 21] detect poison                   <  5> 52  52   1  52  52   3  52
+[ 22] dispel evil                     < 15> 20  52  52  52  52  52  52
+[ 23] earthquake                      < 15> 15  52  52  52  52  52  52
+[ 24] enchant weapon                  <100> 52  14  52  14  52  52  52
+[ 25] energy drain                    < 35> 52  22  52  22  52  52  52
+[ 26] fireball                        < 50> 52  25  52  25  52  52  52
+[ 27] harm                            < 35> 25  52  52  52  52  52  52
+[ 28] heal                            < 50> 25  52  52  52  52  52  52
+[ 29] invisibility                    <  5> 52   4  52   4  52  52  52
+[ 30] lightning bolt                  < 15> 50  10  52  10  52  52  52
+[ 31] locate object                   < 20> 11  52  52  52  52  52  52
+[ 32] magic missile                   < 15> 52   1  52   1  52  52  52
+[ 33] poison                          < 10> 13  52   8  52  52  52  52
+[ 34] protection from evil            <  5>  7  52  52  52  20  25  52
+[ 35] remove curse                    <  5>  8  52  52  52  52  52  52
+[ 36] sanctuary                       < 50> 26  52  52  52  52  52  52
+[ 37] shocking grasp                  < 15> 52   2  52   2  52  52  52
+[ 38] sleep                           < 15> 52   3  52   3  52  52  52
+[ 39] strength                        < 10> 52   6  52   6  52  52  52
+[ 40] summon                          < 20> 19  27  52  27  52  52  52
+[ 41] ventriloquate                   <  5> 52   1  52   1  52  52  52
+[ 42] word of recall                  <  5> 15  52  52  52  52  52  52
+[ 43] remove poison                   <  5> 17  52   8  52  40  20  52
+[ 44] sense life                      <  5>  4  52  52  52  52  52  52
+[ 45] sneak                           <200> 52  52  52  52  52   4  52
+[ 46] hide                            <200> 51  51  51  51  51   2  51
+[ 47] steal                           <200> 54  54  54  54  54  54  54
+[ 48] backstab                        <200> 52  52  52  52  52  52  52
+[ 49] pick                            <200> 52  52  52  52  52  52  52
+[ 50] kick                            <200> 52  52  52  52  52  52  52
+[ 51] bash                            <200> 52  52  52  52   1   1  52
+[ 52] rescue                          <200> 52  52  52  52  52  52  52
+[ 53] identify                        <100> 52  45  52  45  52  52  52
+[ 54] infravision                     <  7> 52   8   5   8  52  52  52
+[ 55] cause light                     <  8>  1  52   2  52  52  52  52
+[ 56] cause critical                  < 11> 10  52  13  52  52  52  52
+[ 57] flamestrike                     < 15> 15  52  52  52  52  52  52
+[ 58] dispel good                     < 15> 20  52  52  52  52  52  52
+[ 59] weakness                        < 10> 52   6  52   6  52  52  52
+[ 60] dispel magic                    < 15> 10   9   9   9  52  52  52
+[ 61] knock                           < 10> 52   3  52   3  52  52  52
+[ 62] know alignment                  < 10>  4   7   2   7   5  52  52
+[ 63] animate dead                    <  5>  8  16  52  16  52  52  52
+[ 64] paralyze                        < 15> 52  20  52  20  52  52  52
+[ 65] remove paralysis                < 10>  6  52   9  52  15  52  52
+[ 66] fear                            < 15> 52   8  52   8  52  52  52
+[ 67] acid blast                      < 15> 52   6  52   6  52  52  52
+[ 68] water breath                    < 15> 52   9   6   9  52  52  52
+[ 69] fly                             < 15> 22  11  14  11  52  52  52
+[ 70] cone of cold                    < 15> 52  17  52  17  52  52  52
+[ 71] meteor swarm                    < 35> 52  36  52  36  52  52  52
+[ 72] ice storm                       < 15> 52  11  52  11  52  52  52
+[ 73] shield                          <  1> 52   1  52   1  52  52  52
+[ 74] monsum one                      < 10> 52   4  52   4  52  52  52
+[ 75] monsum two                      < 12> 52   7  52   7  52  52  52
+[ 76] monsum three                    < 15> 52   9  52   9  52  52  52
+[ 77] monsum four                     < 17> 52  12  52  12  52  52  52
+[ 78] monsum five                     < 20> 52  15  52  15  52  52  52
+[ 79] monsum six                      < 22> 52  18  52  18  52  52  52
+[ 80] monsum seven                    < 25> 52  22  52  22  52  52  52
+[ 81] fireshield                      < 40> 45  40  48  40  52  52  52
+[ 82] charm monster                   <  5> 52  10  12  10  52  52  52
+[ 83] cure serious                    <  9>  7  52   8  45  50  52  52
+[ 84] cause serious                   <  9>  7  52   8  45  52  52  52
+[ 85] refresh                         <  5>  3   6   4   6  52  52  52
+[ 86] second wind                     <  5>  9  20  14  20  35  30  52
+[ 87] turn                            < 30>  1  52  12  52  10  52  52
+[ 88] succor                          < 15> 23  24  52  24  52  52  52
+[ 89] create light                    <  5>  2   1   3   1  52  52  52
+[ 90] continual light                 < 10> 26  10  16  10  52  52  52
+[ 91] calm                            < 15>  2   4  52   4  18  52  52
+[ 92] stone skin                      < 20> 52  26  52  26  52  52  52
+[ 93] conjure elemental               < 30> 13  16  11  16  52  52  52
+[ 94] true sight                      < 20> 19  52  24  52  52  52  52
+[ 95] minor creation                  < 30> 52   8  52   8  52  52  52
+[ 96] faerie fire                     < 10>  4   5   1   5  52  52  52
+[ 97] faerie fog                      < 20> 11  16  10  16  52  52  52
+[ 98] cacaodemon                      < 50> 29  30  52  30  52  52  52
+[ 99] polymorph self                  < 10> 52   9  52   9  52  52  52
+[100] mana                            < 10> 52  52  52  52  52  52  52
+[101] astral walk                     < 30> 30  52  52  52  52  52  52
+[102] resurrection                    < 33> 36  52  52  52  52  52  52
+[103] heroes feast                    < 40> 24  52  52  52  52  52  52
+[104] group fly                       < 30> 52  24  22  24  52  52  52
+[105] breath                          <200> 54  54  54  54  54  54  54
+[106] web                             <  3> 52  11  52  11  52  52  52
+[107] minor track                     < 10> 52  12   7  12  52  52  52
+[108] major track                     < 20> 52  20  17  20  52  52  52
+[109] golem                           < 30> 15  52  52  52  52  52  52
+[110] find familiar                   < 30> 52   2  52   2  52  52  52
+[111] changestaff                     < 30> 52  52  30  52  52  52  52
+[112] holy word                       < 30> 52  52  52  52  52  52  52
+[113] unholy word                     < 30> 52  52  52  52  52  52  52
+[114] power word kill                 < 10> 52  23  52  23  52  52  52
+[115] power word blind                < 10> 52  16  52  16  52  52  52
+[116] chain lightning                 < 30> 51  25  25  25  51  51  51
+[117] scare                           <  3> 52   4  52   4  52  52  52
+[118] aid                             <  5>  4  52  52  52  52  52  52
+[119] command                         <  3>  1  52  52  52  52  52  52
+[120] change form                     < 20> 52  52  12  52  52  52  52
+[121] feeblemind                      < 30> 52  34  52  34  52  52  52
+[122] shillelagh                      < 10> 52  52   3  52  52  52  52
+[123] goodberry                       < 10> 52  52   4  52  52  52  52
+[124] elemental blade                 < 10> 52  52   7  52  52  52  52
+[125] animal growth                   < 20> 52  52  35  52  52  52  52
+[126] insect growth                   < 20> 52  52  33  52  52  52  52
+[127] creeping death                  < 50> 52  52  45  52  52  52  52
+[128] commune                         < 10> 52  52  20  52  52  20  52
+[129] animal summon one               < 15> 52  52  15  52  52  20  52
+[130] animal summon two               < 20> 52  52  20  52  52  25  52
+[131] animal summon three             < 25> 52  52  25  52  52  30  52
+[132] fire servant                    < 30> 52  52  35  52  52  52  52
+[133] earth servant                   < 30> 52  52  36  52  52  52  52
+[134] water servant                   < 30> 52  52  37  52  52  52  52
+[135] wind servant                    < 30> 52  52  38  52  52  52  52
+[136] reincarnate                     < 50> 51  51  39  51  51  51  51
+[137] charm vegetable                 <  5> 52  52  17  52  52  52  52
+[138] vegetable growth                < 20> 52  52  20  52  52  52  52
+[139] tree                            < 30> 52  52  15  52  52  52  52
+[140] animate rock                    < 15> 52  52  31  52  52  52  52
+[141] tree travel                     <  2> 52  52   8  52  52  52  52
+[142] travelling                      <  2> 52  52  10  52  52  15  52
+[143] animal friendship               <  2> 52  52   5  52  52   3  52
+[144] invis to animals                < 10> 52  52  11  52  52   8  52
+[145] slow poison                     < 20> 52  52   6  52  10  10  52
+[146] entangle                        < 20> 52  52  16  52  52  52  52
+[147] snare                           < 10> 52  52   8  52  52   5  52
+[148] gust of wind                    <  2> 52  10  52  10  52  52  52
+[149] barkskin                        <  5> 52  52   3  52  52  52  52
+[150] sunray                          < 15> 52  52  27  52  52  52  52
+[151] warp weapon                     < 20> 52  52  19  52  52  52  52
+[152] heat stuff                      < 30> 52  52  23  52  52  52  52
+[153] find traps                      < 10> 16  52  15  52  52  13  52
+[154] firestorm                       < 15> 52  52  22  52  52  52  52
+[155] haste                           < 50> 52  40  52  40  52  52  52
+[156] slowness                        < 20> 52  19  52  19  52  52  52
+[157] dust devil                      < 10>  3  52   1  52  52  52  52
+[158] know monster                    < 20> 52   9  52   9  52  52  52
+[159] transport via plant             < 20> 52  52  10  52  52  52  52
+[160] speak with plants               <  5> 52  52   7  52  52  52  52
+[161] silence                         < 30> 23  21  25  21  52  52  52
+[162] sending                         <  5> 52   1  52   1  52   1  52
+[163] teleport without error          < 20> 52  30  52  30  52  52  52
+[164] portal                          < 50> 52  43  52  43  52  52  52
+[165] dragon ride                     < 20> 52  52  52  52  52  52  52
+[166] mount                           < 20> 52  47  15  47  52  52  52
+[168] minor heal                      < 30> 20  52  25  52  30  52  52
+[170] first aid                       <200> 52  52  52  52   1   1  52
+[173] switch opponents                <200> 52  52  52  52   1   1  52
+[174] dodge                           <200> 52  52  52  52   1   1  52
+[179] feign death                     < 20> 51  51  51  51  51  51  51
+[180] hunt                            <200> 51  51  51  51  51   1  51
+[183] disarm                          <200> 52  52  52  52   1   1  52
+[186] spy                             <200> 51  51  51  51  51   1  51
+[198] climb                           <200> 52  52  52  52  52   1  52
+[201] mirror images                   < 30> 52  11  52  11  52  52  52
+[204] Parry                           <  0> 20  30  15  25   5   5  25
+[207] berserk                         <200> 52  52  52  52  52  52  52
+[208] tan                             <200> 52  52  52  52  52   1  52
+[209] avoid back attack               <200> 52  52  52  52  52  52  52
+[210] find food                       <200> 52  52  52  52  52   1  52
+[211] find water                      <200> 52  52  52  52  52   1  52
+[214] bellow                          <200> 52  52  52  52  52  52  52
+[215] darkness                        < 15>  3   5   3   5  52  52  52
+[216] minor invulnerability           < 25> 52  20  52  20  52  52  52
+[217] major invulnerability           < 50> 52  27  52  27  52  52  52
+[218] protection from drain           < 40> 48  52  52  52  52  52  52
+[219] protection from breath          <200> 52  52  52  52  52  52  52
+[220] anti magic shell                <100> 52  48  52  48  52  52  52
+[221] doorway                         < 20> 51  51  51  51  51  51   3
+[222] psi portal                      < 20> 52  52  52  52  52  52  32
+[223] psi summon                      < 20> 52  52  52  52  52  52  10
+[224] psi invisibility                < 20> 52  52  52  52  52  52   1
+[225] canibalize                      < 20> 52  52  52  52  52  52   2
+[226] flame shroud                    < 20> 52  52  52  52  52  52  15
+[227] aura sight                      < 20> 52  52  52  52  52  52   5
+[228] great sight                     < 20> 52  52  52  52  52  52  11
+[229] psionic blast                   < 20> 52  52  52  52  52  52   1
+[230] hypnosis                        < 20> 52  52  52  52  52  52   2
+[231] meditate                        < 20> 52  52  52  52  52  52   1
+[232] scry                            < 20> 52  52  52  52  52  52   7
+[233] adrenalize                      < 20> 52  52  52  52  52  52  20
+[235] ration                          <200> 52  52  52  52  52   1  52
+[236] warcry                          <200> 51  51  51  51   5  51  51
+[237] blessing                        <200> 52  52  52  52   1  52  52
+[238] lay on hands                    <200> 52  52  52  52   1  52  52
+[239] heroic rescue                   <200> 51  51  51  51   1  51  51
+[240] dual wield                      <200> 52  52  52  52  52   1  52
+[241] psi shield                      < 20> 52  52  52  52  52  52   1
+[242] protection from evil group      < 45> 20  52  52  52  35  45  52
+[243] prismatic spray                 < 40> 52  17  52  17  52  52  52
+[244] incendiary cloud                < 60> 52  45  52  45  52  52  52
+[245] disintegrate                    < 45> 52  48  52  48  52  52  52
+[254] esp                             < 10> 52  52  52  52  52  52   1
+[255] comprehend languages            < 10>  3   1  52   1  52  52  52
+[256] protection from fire            < 40> 21  52  22  52  52  52  52
+[257] protection from cold            < 40> 20  52  21  52  52  52  52
+[258] protection from energy          < 40> 19  52  52  52  52  52  52
+[259] protection from electricity     < 40> 18  52  19  52  52  52  52
+[260] enchant armor                   <100> 52  16  52  16  52  52  52
+[261] messenger                       <  5>  1  52   1  52   1  52  52
+[262] protection fire breath          < 50> 40  52  41  52  52  52  52
+[263] protection frost breath         < 50> 38  52  39  52  52  52  52
+[264] protection electric breath      < 50> 39  52  40  52  52  52  52
+[265] protection acid breath          < 50> 40  52  41  52  52  52  52
+[266] protection gas breath           < 50> 37  52  52  52  52  52  52
+[267] wizardeye                       < 40> 52  35  52  35  52  52  52
+[268] mind burn                       < 15> 52  52  52  52  52  52   5
+[269] clairvoyance                    < 45> 52  52  52  52  52  52   8
+[270] psionic danger sense            < 50> 52  52  52  52  52  52  23
+[271] psionic disintegrate            < 50> 52  52  52  52  52  52  38
+[272] telekinesis                     < 35> 52  52  52  52  52  52  35
+[273] levitation                      < 20> 52  52  52  52  52  52  10
+[274] cell adjustment                 <100> 52  52  52  52  52  52  14
+[275] chameleon                       < 40> 52  52  52  52  52  52   8
+[276] psionic strength                < 15> 52  52  52  52  52  52   6
+[277] mind over body                  < 60> 52  52  52  52  52  52  14
+[278] probability travel              < 40> 52  52  52  52  52  52  21
+[279] psionic teleport                < 15> 52  52  52  52  52  52  12
+[280] domination                      < 30> 52  52  52  52  52  52  52
+[281] mind wipe                       <100> 52  52  52  52  52  52  31
+[282] psychic crush                   < 45> 52  52  52  52  52  52  37
+[283] tower of iron will              < 50> 52  52  52  52  52  52  34
+[284] mindblank                       < 50> 52  52  52  52  52  52  17
+[285] psychic impersonation           < 50> 52  52  52  52  52  52   3
+[286] ultra blast                     < 60> 52  52  52  52  52  52  20
+[287] intensify                       <100> 52  52  52  52  52  52  52
+[288] spot                            <100> 52  52  52  52   1   1  52
+[300] minor harm                      < 30> 20  52  52  52  52  52  52
+[301] manashield                      < 10> 52  50  52  52  52  52  52
+[302] mind over matter                < 10> 52  52  52  52  52  52  50
+[305] hilt smash                      <  0> 52  52  52  52  52  52  52
+[306] fury howl                       <  0> 52  52  52  52  52  52  52
+[307] pressure point                  <  0> 52  52  52  52  52  52  52
+[308] cheap shot                      <  0> 52  52  52  52  52  52  52
+[309] holy rebuke                     < 15> 52  52  52  52  15  52  52
+[310] tactical strike                 <  0> 52  52  52  52  52  15  52
+[311] spellshatter                    < 15> 52  15  52  15  52  52  52
+[312] divine rebuke                   < 15> 15  52  52  52  52  52  52
+[313] thornbind                       < 15> 52  52  15  52  52  52  52
+[314] mind spike                      <  0> 52  52  52  52  52  52  15

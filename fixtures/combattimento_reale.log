@@ -1,0 +1,67 @@
+#nebbie-log v1 2026-11-13 Rigel/Vega (estratti reali: chain lightning con (x6), uccisione con loot, prompt con tank/bersaglio)
+85424	P	Rigel H539 M950 V248 X-132.811.939 [[0;40;1;36mT[0;40;37m] */*>> [0;40;37m
+87616	C	cast 'chain lightning'
+87913	L	Pronunci le parole, '[0;40;1;37mchain lightning[0;40;37m'.
+87913	L	[0;40;37m[0;40;37m[0;40;37m[0;40;1;34mIl tuo fulmine riduce la Ronda[0;40;1;34m in mille pezzi. [0;40;33m[194][0;40;37m[0;40;37m[0;40;37m[0;40;37m
+87913	L	[0;40;1;37mLa Ronda is dead! [0;40;1;33mR.I.P.[0;40;37m[0;40;37m[0;40;37m
+87913	L	[0;40;1;36mRace Achievement [0;40;1;37m#[0;40;1;31m50 [0;40;1;36m'[0;40;1;37mMa due hobbit valgono uno o due?[0;40;1;36m' [0;40;1;31m1969[0;40;1;37m/[0;40;1;31m2500[0;40;1;36m.[0;40;37m (+7)
+87914	L	[0;40;1;36mRace Achievement [0;40;1;37m#[0;40;1;31m2 [0;40;1;36m'[0;40;1;37mMisantropo[0;40;1;36m' [0;40;1;31m1047[0;40;1;37m/[0;40;1;31m10000[0;40;1;36m.[0;40;37m (+7)
+87914	L	[0;40;35mIl tuo sangue si gela al grido di morte di [0;40;1;37mla Ronda[0;40;35m.[0;40;37m[0;40;37m[0;40;37m
+87914	L	[0;40;1;34mIl tuo fulmine riduce una guardia scelta[0;40;1;34m in mille pezzi. [0;40;33m[157-198][0;40;37m[0;40;37m[0;40;37m[0;40;37m (x6)
+87914	L	[0;40;1;37mUna guardia scelta is dead! [0;40;1;33mR.I.P.[0;40;37m[0;40;37m[0;40;37m (x6)
+87914	L	[0;40;35mIl tuo sangue si gela al grido di morte di [0;40;1;37muna guardia scelta[0;40;35m.[0;40;37m[0;40;37m[0;40;37m (x6)
+87914	L	Hai ucciso 7 nemici e guadagnato 10.200 punti esperienza.
+87914	L	[0;40;37m[0;40;37m
+87955	P	Rigel H539 M920 V248 X-132.817.037 [[0;40;1;36mT[0;40;37m] */*>> [0;40;37m
+449474	P	Rigel H477 M632 V169 X-133.247.330 [s[0;40;1;36mT[0;40;37m] [0;40;32mgraffiato[0;40;37m/[0;40;31msquarciato[0;40;37m>> [0;40;37m
+449724	C	cast 'magic missile'
+453108	L	Pronunci le parole, '[0;40;1;37mmagic missile[0;40;37m'.
+453108	L	[0;40;37m[0;40;37m[0;40;37mTi senti una Jena
+453108	L	[0;40;36mGuardi con autocompiacimento la saetta magica colpire Guerra il Cavaliere dell'Apocalisse[0;40;36m. [0;40;33m[57][0;40;37m[0;40;37m[0;40;37m[0;40;37m
+453108	L	
+453154	P	Rigel H477 M617 V169 X-133.247.330 [s[0;40;1;36mT[0;40;37m] [0;40;32mgraffiato[0;40;37m/[0;40;31msquarciato[0;40;37m>> [0;40;37m
+453352	L	
+453352	L	Colpisci Guerra il Cavaliere dell'Apocalisse in petto [0;40;1;32mmassacrandolo[0;40;37m! [0;40;33m[42][0;40;37m
+453352	L	[0;40;37m[0;40;37m[0;40;37mColpisci Guerra il Cavaliere dell'Apocalisse alla testa [0;40;1;32mdevastandolo[0;40;37m! [0;40;33m[46][0;40;37m
+453352	L	[0;40;37m[0;40;37m[0;40;37mColpisci Guerra il Cavaliere dell'Apocalisse alla gamba [0;40;1;32mmassacrandolo[0;40;37m! [0;40;33m[43][0;40;37m
+453352	L	[0;40;37m[0;40;37m[0;40;37m[0;40;1;37mGuerra il Cavaliere dell'Apocalisse is dead! [0;40;1;33mR.I.P.
+453352	L	[0;40;37m[0;40;37m[0;40;37m[0;40;1;36mRace Achievement [0;40;1;37m#[0;40;1;31m35 [0;40;1;36m'[0;40;1;37mAttento che cade![0;40;1;36m' [0;40;1;31m116[0;40;1;37m/[0;40;1;31m1000[0;40;1;36m.
+453352	L	[0;40;37m[0;40;35mIl tuo sangue si gela al grido di morte di [0;40;1;37mGuerra il Cavaliere dell'Apocalisse[0;40;35m.
+453352	L	[0;40;37m[0;40;37m[0;40;37mLa tua esperienza e' aumentata di 225.000 punti.
+453352	L	[0;40;37m[0;40;37m
+453399	P	Rigel H477 M617 V166 X-133.359.830 [s[0;40;1;36mT[0;40;37m] */*>> [0;40;37m
+457352	L	
+457352	L	[0;40;1;37mATTENZIONE! [0;40;1;36mNebbie Arcane ripartira' entro 20 minuti.
+457352	L	[0;40;37m
+457395	P	Rigel H477 M643 V170 X-133.359.830 [s[0;40;1;36mT[0;40;37m] */*>> [0;40;37m
+459404	C	get coin corp
+459603	L	Prendi gold coins da il corpo di Guerra il Cavaliere dell'Apocalisse.[0;40;37m[0;40;37m
+459603	L	C'erano 100.000 monete.
+459603	L	
+459646	P	Rigel H510 M643 V170 X-133.359.830 [s[0;40;1;36mT[0;40;37m] */*>> [0;40;37m
+314701	L	
+314746	P	Rigel H539 M791 V226 X-133.022.330 [[0;40;1;37mS[0;40;37m[0;40;1;36mT[0;40;37m[0;40;1;35mM[0;40;37m] eccellente/[0;40;32mgraffiato[0;40;37m>> [0;40;37m
+317364	L	
+317364	L	Con un calcio il Quarto Guardiano ti sposta di fianco, per un attimo perdi l'equilibrio. [0;40;31m[-12][0;40;37m
+317364	L	[0;40;37m[0;40;37m[0;40;37mColpisci il Quarto Guardiano in petto [0;40;1;32mmassacrandolo[0;40;37m! [0;40;33m[44][0;40;37m
+317364	L	[0;40;37m[0;40;37m[0;40;37mColpisci il Quarto Guardiano sulla mano sinistra [0;40;1;32mmassacrandolo[0;40;37m! [0;40;33m[43][0;40;37m
+317364	L	[0;40;37m[0;40;37m[0;40;37mManchi il Quarto Guardiano. [0;40;33m[0][0;40;37m
+317364	L	[0;40;37m[0;40;37m[0;40;37mColpisci il Quarto Guardiano sulle spalle [0;40;1;32mmassacrandolo[0;40;37m! [0;40;33m[45][0;40;37m
+317364	L	[0;40;37m[0;40;37m[0;40;37mIl Quarto Guardiano ti manca. [0;40;31m[0][0;40;37m
+317364	L	[0;40;37m[0;40;37m[0;40;37mIl Quarto Guardiano ti manca. [0;40;31m[0][0;40;37m
+317364	L	[0;40;37m[0;40;37m[0;40;37mSchivi l'attacco
+317364	L	[0;40;37m[0;40;37mIl Quarto Guardiano ti manca. [0;40;31m[0][0;40;37m
+317364	L	[0;40;37m[0;40;37m[0;40;37m
+317411	P	Rigel H527 M791 V222 X-133.022.330 [[0;40;1;37mS[0;40;37m[0;40;1;36mT[0;40;37m[0;40;1;35mM[0;40;37m] [0;40;32mgraffiato[0;40;37m/[0;40;1;33mtagliato[0;40;37m>> [0;40;37m
+321351	L	
+321351	L	Colpisci il Quarto Guardiano in petto [0;40;1;32mdevastandolo[0;40;37m! [0;40;33m[52][0;40;37m
+321351	L	[0;40;37m[0;40;37m[0;40;37mColpisci il Quarto Guardiano sul piede [0;40;1;32msbaragliandolo[0;40;37m! [0;40;33m[56][0;40;37m
+321351	L	[0;40;37m[0;40;37m[0;40;37mColpisci il Quarto Guardiano alla testa [0;40;1;32mdevastandolo[0;40;37m! [0;40;33m[46][0;40;37m
+321351	L	[0;40;37m[0;40;37m[0;40;37mColpisci il Quarto Guardiano sul collo [0;40;1;32mmassacrandolo[0;40;37m! [0;40;33m[43][0;40;37m
+321351	L	[0;40;37m[0;40;37m[0;40;37mLa tua [0;40;1;34mimmagine illusoria[0;40;37m svanisce.
+321351	L	[0;40;37m[0;40;37m[0;40;37mIl Quarto Guardiano ti manca. [0;40;31m[0][0;40;37m
+321351	L	[0;40;37m[0;40;37m[0;40;37mIl Quarto Guardiano ti artiglia duramente sul piede. [0;40;31m[-13][0;40;37m
+321351	L	[0;40;37m[0;40;37m[0;40;37mIl Quarto Guardiano banchetta con la tua energia vitale.
+321351	L	[0;40;37m[0;40;37mSembri piu' debole.
+321351	L	[0;40;37m[0;40;37mSchivi l'attacco
+321351	L	[0;40;37m[0;40;37mIl Quarto Guardiano ti manca. [0;40;31m[0][0;40;37m

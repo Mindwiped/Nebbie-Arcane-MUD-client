@@ -1,0 +1,42 @@
+#nebbie-log v1 2026-11-13 Rigel (estratto reale: comandi score e att)
+5904	P	Rigel H539 M930 V135 X-134.366.565 [[0;40;1;36mT[0;40;37m] */*>> [0;40;37m
+5904	S	Il server segnala la fine del prompt (GA/EOR).
+7813	C	score
+7993	L	[0;40;35mSei nato nel [0;40;1;37mGiorno dei Martelli[0;40;37m[0;40;35m, 24^ del [0;40;1;37mMese dell'Inverno[0;40;37m[0;40;35m, nell'anno 853 dopo Nebbie.
+7993	L	Hai [0;40;1;37m50[0;40;35m anni.
+7993	L	[0;40;37m[0;40;37m[0;40;37m[0;40;35mAppartieni alla razza [0;40;1;37mHuman[0;40;35m
+7993	L	[0;40;37m[0;40;37m[0;40;37m[0;40;35mAppartieni al clan di [0;40;1;37mKhaos[0;40;35m
+7993	L	[0;40;37m[0;40;37m[0;40;37m[0;40;35mHai [0;40;1;37m539[0;40;35m([0;40;1;33m539[0;40;35m) hit, [0;40;1;37m930[0;40;35m([0;40;1;33m950[0;40;35m) mana e [0;40;1;37m135[0;40;35m([0;40;1;33m259[0;40;35m) movimento.
+7993	L	[0;40;37m[0;40;37m[0;40;37m[0;40;35mIl tuo allineamento e': [0;40;1;37mSimpatico
+7993	L	[0;40;37m[0;40;37m[0;40;37m[0;40;35mHai effettuato [0;40;1;37m534.366.565[0;40;35m exp, ed hai [0;40;1;37m29.640.568[0;40;35m monete d'oro.
+7993	L	[0;40;37m[0;40;37m[0;40;37m[0;40;35mNon puoi donare xp se hai meno di: [0;40;1;37m400.000.000[0;40;35m exp
+7993	L	[0;40;37m[0;40;37m[0;40;37m[0;40;35mExp al prossimo livello: M:[0;40;1;37m-103.366.565[0;40;35m K:[0;40;1;37m-103.366.565[0;40;35m 
+7993	L	[0;40;37m[0;40;37m[0;40;37m[0;40;35mI tuoi livelli: M:[0;40;1;37m51[0;40;35m K:[0;40;1;37m51[0;40;35m
+7993	L	[0;40;37m[0;40;37m[0;40;37m[0;40;35mQuesto ti qualifica come [0;40;1;37mRigel [0;40;1;33mThe [0;40;1;30mNecro[0;40;1;34mMonger[0;40;37m
+7993	L	[0;40;37m[0;40;37m[0;40;37m[0;40;35mHai giocato per [0;40;1;37m54[0;40;35m giorni e [0;40;1;37m18[0;40;35m ore.
+7993	L	[0;40;37m[0;40;37m[0;40;37m[0;40;35mI tuoi set sono: [0;40;1;37mAchie[0;40;35m([0;40;1;37mon[0;40;35m) [0;40;1;37mAnsi[0;40;35m([0;40;1;37mon[0;40;35m) [0;40;1;37mAutoexits[0;40;35m([0;40;1;37mon[0;40;35m) [0;40;1;37mPwp[0;40;35m([0;40;1;37mon[0;40;35m) [0;40;1;37mWarnings[0;40;35m([0;40;1;37mon[0;40;35m) [0;40;1;37mWho[0;40;35m([0;40;1;37moff[0;40;35m)
+7993	L	[0;40;37m[0;40;37m[0;40;37m[0;40;35mLe rune degli Dei tatuate sul tuo corpo sono: [0;40;1;37m55 
+7993	L	[0;40;37m[0;40;37m[0;40;37m[0;40;35mFrammenti di runa raccolti: [0;40;1;37m6000[0;40;35m (1000 per una runa degli Dei) 
+7993	L	[0;40;37m[0;40;37m[0;40;37m[0;40;35mDimensioni Effimere completate: [0;40;1;37m78[0;40;35m (solitarie [0;40;1;37m72[0;40;35m, gruppo [0;40;1;37m6[0;40;35m).
+7993	L	[0;40;37m[0;40;37m[0;40;37m[0;40;35mSei in piedi.
+7993	L	[0;40;37m[0;40;37m[0;40;37m
+8038	P	Rigel H539 M930 V135 X-134.366.565 [[0;40;1;36mT[0;40;37m] */*>> [0;40;37m
+49881	C	att
+49987	L	[0;40;35mTu hai [0;40;1;36m50[0;40;35m (ma ne dimostri [0;40;1;36m50[0;40;35m) anni e [0;40;1;36m6[0;40;35m mesi, sei alto [0;40;1;36m185[0;40;35m cm, e pesi [0;40;1;36m64[0;40;35m chili.
+49987	L	[0;40;37m[0;40;37m[0;40;37m[0;40;35mStai trasportando [0;40;1;36m0[0;40;35m etti di equipaggiamento su [0;40;1;36m1610.
+49987	L	[0;40;37m[0;40;37m[0;40;37m[0;40;35mStai trasportando [0;40;1;36m0[0;40;35m oggetti su [0;40;1;36m39.
+49987	L	[0;40;37m[0;40;37m[0;40;37m[0;40;35mTu sei[0;40;1;36m corazzato come un Demone
+49987	L	[0;40;37m[0;40;37m[0;40;37m[0;40;35mLa tua capacita' di lanciare incantesimi e'[0;40;1;36m veramente eccezionale!
+49987	L	[0;40;37m[0;40;37m[0;40;37m[0;40;35mTu hai [0;40;1;36m18[0;40;35m/[0;40;1;37m100 [0;40;35mSTR, [0;40;1;36m18 [0;40;35mINT, [0;40;1;36m18 [0;40;35mWIS, [0;40;1;36m18 [0;40;35mDEX, [0;40;1;36m18 [0;40;35mCON, [0;40;1;36m13 [0;40;35mCHR
+49987	L	[0;40;37m[0;40;37m[0;40;37m[0;40;35mI tuoi hit e damage bonus sono [0;40;1;36meccellente[0;40;35m e [0;40;1;36meccellente[0;40;35m rispettivamente.
+49987	L	[0;40;37m[0;40;37m[0;40;37m[0;40;35mIl tuo spellpower e' [0;40;1;36mbuono[0;40;35m
+49987	L	[0;40;37m[0;40;37m[0;40;37m[0;40;35mIl tuo equipaggiamento e' [0;40;1;36mmeglio di quanto credevo possibile![0;40;35m
+49987	L	[0;40;37m[0;40;37m[0;40;37m
+49987	L	[0;40;35mSpells attivi:
+49987	L	--------------
+49987	L	[0;40;37m[0;40;37m[0;40;37m[0;40;35mSpell : '[0;40;1;36mdetect invisibility[0;40;35m' - [0;40;1;36m99[0;40;35m
+49987	L	[0;40;37m[0;40;37m[0;40;37m[0;40;35mSpell : '[0;40;1;36mstrength[0;40;35m' - [0;40;1;36m80[0;40;35m
+49987	L	[0;40;37m[0;40;37m[0;40;37m[0;40;35mSpell : '[0;40;1;36mshield[0;40;35m' - [0;40;1;36m37[0;40;35m
+49987	L	[0;40;37m[0;40;37m[0;40;37m[0;40;35mSpell : '[0;40;1;36marmor[0;40;35m' - [0;40;1;36m4[0;40;35m
+49987	L	[0;40;37m[0;40;37m[0;40;37m
+50050	P	Rigel H539 M950 V148 X-134.366.565 [[0;40;1;36mT[0;40;37m] */*>> [0;40;37m

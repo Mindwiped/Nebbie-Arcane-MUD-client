@@ -1,0 +1,40 @@
+[package]
+name = "nebbie-client"
+version = "0.1.0"
+description = "Client MUD desktop per Nebbie Arcane"
+authors = ["Mindwiped"]
+license = ""
+repository = ""
+edition = "2024"
+default-run = "nebbie-client"
+rust-version = "1.90"
+
+[lib]
+name = "nebbie_client_lib"
+crate-type = ["staticlib", "cdylib", "rlib"]
+
+[build-dependencies]
+tauri-build = { version = "2.7.4", features = [] }
+
+[dependencies]
+serde_json = "1.0"
+serde = { version = "1.0", features = ["derive"] }
+log = "0.4"
+tauri = { version = "2.12.5", features = [] }
+tauri-plugin-log = "2"
+tokio = { version = "1.54.1", features = ["net", "io-util", "time", "sync", "macros", "rt"] }
+socket2 = { version = "0.6.5", features = ["all"] }
+chrono = { version = "0.4.45", default-features = false, features = ["clock", "std"] }
+tauri-plugin-dialog = "2"
+keyring = { version = "3", features = ["apple-native", "windows-native"] }
+tauri-plugin-notification = "=2.8.0"
+flate2 = "1.1"
+
+# Server MUD finto per le prove: non entra nel pacchetto dell'app.
+[[bin]]
+name = "mock-server"
+path = "src/bin/mock-server.rs"
+required-features = ["mock"]
+
+[features]
+mock = []

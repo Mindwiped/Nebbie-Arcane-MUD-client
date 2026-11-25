@@ -1,0 +1,21 @@
+Benvenuto nel mock-server di Nebbie Client (sessione sintetica).
+Rigel H481 M493 V247 X-28602993 [T] */*>> [1;36mUna stanza di prova[0m
+Una descrizione di fantasia, solo per vedere come il client mostra una stanza
+su piu' righe. Uscite: Nord Est
+[33mUn mob di prova e' qui.[0m
+-----------------
+Uscite visibili:
+Nord - Un corridoio di prova
+Est  - Un'altra stanza di prova
+-----------------
+Rigel H481 M493 V246 X-28602993 [T] */*>> Non puoi andare da quella parte...
+Rigel H481 M493 V246 X-28602993 [T] */*>> La door e' chiusa.
+Rigel H430 M470 V240 X-28602993 [T] */*>> [31mIl tuo sangue si gela al grido di morte di un mob di prova.[0m
+La tua esperienza e' aumentata di 411.508 punti.
+Rigel H430 M470 V240 X-28191485 [T] */*>> Prendi gold coins da a pile of dust and bones.
+C'erano 309.364 monete.
+Rigel H430 M470 V240 X-28191485 [T] */*>> La tua pelle torna normale.
+Rigel H210 M455 V238 X-28191485 [T] */*>> Stai trasportando:
+[ 1] <tenuto> una pozione di prova (in condizioni eccellenti) [2]
+Rigel H95 M455 V238 X-28191485 [T] */*>> Mi spiace, ma non riesci a correre ulteriormente.
+Rigel H95 M455 V60 X-28191485 [T] */*>> 

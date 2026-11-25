@@ -1,0 +1,25 @@
+# Dipendenze e build
+node_modules/
+dist/
+src-tauri/target/
+src-tauri/gen/schemas/
+
+# macOS / editor
+.DS_Store
+.vscode/*
+!.vscode/extensions.json
+.idea/
+
+# Dati locali del client (log di sessione, database, mappe esportate)
+logs/
+*.sqlite
+*.sqlite3
+*.db
+mappa_nebbie.json
+percorsi_salvati.lua
+
+# Screenshot dell'interfaccia di un altro giocatore: solo riferimento locale, non va pubblicato
+riferimenti/esempio_struttura_interfaccia.jpg
+
+# strumenti python
+__pycache__/

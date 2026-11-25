@@ -1,0 +1,7 @@
+dist/
+node_modules/
+src-tauri/
+riferimenti/
+fixtures/
+package-lock.json
+*.md

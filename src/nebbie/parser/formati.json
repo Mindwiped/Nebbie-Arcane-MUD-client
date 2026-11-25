@@ -1,0 +1,146 @@
+{
+  "_nota": "Formati del testo di Nebbie Arcane usati dal parser. Sono regex JavaScript (flag u). Fonti: docs/PROTOCOLLO_NEBBIE.md, log reali in fixtures/, pacchetti Mudlet in riferimenti/.",
+  "uscite": "^(.*?)\\s*Uscite: (.*)$",
+  "usciteVisibili": "^Uscite visibili:\\s*$",
+  "separatore": "^-{5,}\\s*$",
+  "rigaUscitaVisibile": "^(?<dir>\\p{L}+)\\s+-\\s+(?<nome>.*?)\\s*$",
+  "guardando": "^\\s*Guardando ",
+  "ripetizione": "^(?<testo>.*?)\\s+\\(x(?<volte>\\d+)\\)$",
+  "atterratoBash": " ti manda a gambe all(?:'|’)aria\\.(?:\\s*\\[-?\\d+\\])?\\s*$",
+  "disarmFallito": "^Provi a disarmare (?<chi>.+), ma fallisci miseramente\\.",
+  "fingerFallito": "^Cerchi di accecare (?<chi>.+), ma (?:gli|le) ammacchi appena il naso\\.",
+  "ancoraATerra": "^(?:Stai ancora annaspando per rialzarti!|Pensavi di poter combattere da seduto\\?|Prima forse dovresti alzarti, non credi\\?)",
+  "mobMorto": "^Il tuo sangue si gela al grido di morte di (?<nome>.+?)\\.$",
+  "esperienza": "^La tua esperienza e' aumentata di (?<punti>[\\d.]+) punti\\.",
+  "esperienzaZona": "^Hai ucciso (?<nemici>\\d+) nemici e guadagnato (?<punti>[\\d.]+) punti esperienza\\.",
+  "monete": "^C'erano (?<monete>[\\d.]+) monete\\.",
+  "lancio": "^Pronunci le parole, '(?<nome>[^']+)'\\.",
+  "passoImpossibile": "^(?:Non puoi andare da quella parte|Non ti pare il caso di correre in quella direzione)",
+  "portaChiusa": "^La (?:porta|door|gate|doorway) e' chiusa\\.",
+  "fineRun": "^Mi spiace, ma non riesci a correre ulteriormente\\.",
+  "portaAperta": "^(?:(?<chi>.+?) apre|Apri) (?:una?|la|il|lo|l') ?(?<cosa>[^.]+)\\.$",
+  "portaChiusaOra": "^(?:(?<chi>.+?) chiude|Chiudi) (?:una?|la|il|lo|l') ?(?<cosa>[^.]+)\\.$",
+  "titoloMezzo": "^\\s*La (?<mezzo>diligenza|mongolfiera):",
+  "achievement": "^(?<tipo>Skill|Race|Other) Achievement #(?<numero>\\d+) '(?<nome>[^']+)' (?<valore>\\d+)/(?<totale>\\d+)\\.",
+  "scoreInizio": "Sei nato nel ",
+  "scoreVitali": "Hai (?<hp>-?\\d+)\\((?<hpMax>\\d+)\\) hit, (?<mp>-?\\d+)\\((?<mpMax>\\d+)\\) mana e (?<mv>-?\\d+)\\((?<mvMax>\\d+)\\) movimento\\.",
+  "scoreEsperienza": "Hai effettuato (?<exp>[\\d.]+) exp, ed hai (?<monete>[\\d.]+) monete d'oro\\.",
+  "scoreProssimoLivello": "Exp al prossimo livello: (?<valori>(?:\\p{L}+:-?[\\d.]+\\s*)+)",
+  "scoreLivelli": "I tuoi livelli: (?<valori>(?:\\p{L}+:\\d+\\s*)+)",
+  "scorePosizione": "Sei (?<posizione>in piedi|[^.,]{1,30})\\.\\s*$",
+  "incantesimiAttivi": "Spells attivi:",
+  "rigaIncantesimoAttivo": "Spell\\s*:\\s*'(?<nome>[^']+)'\\s*-\\s*(?<durata>-?\\d+)",
+  "equipaggiamento": "^Stai usando:\\s*$",
+  "inventario": "^Stai trasportando:\\s*$",
+  "contenitore": "^(?<titolo>.+?)\\s*\\((?:usa|trasporta)\\)\\s*:\\s*$",
+  "rigaEq": "^\\[\\s*(?<pos>\\d+)\\]\\s+<(?<slot>[^>]+)>\\s+(?<nome>.+?)\\s*$",
+  "rigaOggetto": "^\\[\\s*(?<pos>\\d+)\\]\\s+(?<nome>.+?)\\s*$",
+  "listaVuota": "^\\s*Nulla\\.\\s*$",
+  "fermataDiligenza": "Ci siamo fermati presso\\s+(?<fermata>.+?)\\.\\s*$",
+  "prossimaFermata": "^\\s*Prossima fermata:\\s*(?<fermata>.+?)\\.?\\s*$",
+  "fermataMongolfiera": [
+    "\\p{L}+ scalo!*\\s*(?<fermata>.+?),\\s*scenda",
+    "\\p{L}+ attracco:\\s*(?<fermata>.+?)[,\\s]+scendere",
+    "giunti al (?<fermata>capolinea)"
+  ],
+  "rumore": [
+    "arriva",
+    " va ",
+    " va$",
+    " vola ",
+    "volando",
+    "Alzi i tacchi",
+    "^Pronunci ",
+    "^Non ",
+    "^Mi spiace",
+    "^\\[",
+    "Achievement",
+    "^Ti ",
+    "^Senti ",
+    "^Il tuo ",
+    "^La tua ",
+    "^Prendi ",
+    "^Apri ",
+    "^Segui ",
+    "^Smetti ",
+    "^Colpisci ",
+    "si gela",
+    "!$",
+    "^Torni ",
+    "^Il sole ",
+    "^La notte ",
+    "^Il cielo ",
+    "^Le nuvole ",
+    "^Un velo ",
+    "^You ",
+    "^Your ",
+    "^Puff",
+    "^Ci siamo fermati",
+    "^Per scendere qui",
+    "^Prossima fermata",
+    "^Guardando ",
+    "wrenching",
+    "tremola",
+    "^Il globo ",
+    "^L'aura ",
+    "^Stai cercando",
+    "traccia",
+    "^Vedi una",
+    "^There is ",
+    "^Una? .* e' qui",
+    "^Evochi ",
+    "^Svanisci"
+  ],
+  "direzioni": {
+    "nord": "n",
+    "sud": "s",
+    "est": "e",
+    "ovest": "w",
+    "alto": "u",
+    "basso": "d",
+    "nordest": "ne",
+    "nordovest": "nw",
+    "sudest": "se",
+    "sudovest": "sw"
+  },
+  "fineIncantesimi": [
+    {
+      "regex": "La tua pelle torna normale\\.",
+      "incantesimo": "stone skin"
+    },
+    {
+      "regex": "I[lI] globo protettivo attorno al tuo corpo brilla e si dissolve improvvisamente",
+      "incantesimo": "major invulnerability"
+    },
+    {
+      "regex": "I[lI] globo protettivo attorno al tuo corpo si dissolve",
+      "incantesimo": "minor invulnerability"
+    },
+    {
+      "regex": "La tua armatura magica si dissolve\\.",
+      "incantesimo": "armor"
+    },
+    {
+      "regex": "La tua armatura magica vacilla\\.",
+      "incantesimo": "armor",
+      "avviso": true
+    },
+    {
+      "regex": "Il tuo scudo magico si dissolve\\.",
+      "incantesimo": "shield"
+    },
+    {
+      "regex": "Non ti senti pi(?:ù|u') cos(?:ì|i') forte\\.",
+      "incantesimo": "strength"
+    },
+    {
+      "regex": "Non voli pi(?:ù|u')|Torni dolcemente a terra",
+      "incantesimo": "fly"
+    },
+    {
+      "regex": "La tua immagine illusoria svanisce\\.",
+      "incantesimo": "mirror images",
+      "parziale": true
+    }
+  ]
+}

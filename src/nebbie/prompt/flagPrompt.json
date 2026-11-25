@@ -1,0 +1,11 @@
+{
+  "_nota": "Lettere tra parentesi quadre nel prompt di Nebbie: effetti di incantesimi o protezioni attivi. Maiuscola = attivo, minuscola = in scadenza. Fonte: l'utente, 2026-11-13.",
+  "T": "true sight",
+  "S": "sanctuary",
+  "F": "fireshield",
+  "M": "mirror images",
+  "A": "anti magic shell",
+  "D": "protezione/immunità dal drain",
+  "P": "polymorph",
+  "I": "invisibility"
+}

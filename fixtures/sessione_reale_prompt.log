@@ -1,0 +1,62 @@
+#nebbie-log v1 2026-11-13T11:29:43+01:00 Rigel (estratto: righe 56-116 della sessione)
+61880	P	Rigel H539 M519 V201 X-132.726.485 [[0;40;1;36mT[0;40;37m] */*>> [0;40;37m
+96445	C	4
+96709	P	Rigel H539 M571 V210 X-132.726.485 [[0;40;1;36mT[0;40;37m] */*>> [0;40;37m
+97512	C	4
+97708	P	Rigel H539 M571 V210 X-132.726.485 [[0;40;1;36mT[0;40;37m] */*>> [0;40;37m
+97799	C	4
+97961	P	Rigel H539 M571 V210 X-132.726.485 [[0;40;1;36mT[0;40;37m] */*>> [0;40;37m
+98109	C	4
+98501	P	Rigel H539 M597 V214 X-132.726.485 [[0;40;1;36mT[0;40;37m] */*>> [0;40;37m
+99618	C	l
+99923	L	La zona notte
+99923	L	Da  dietro  un  bancone  emerge  l'esile figura della locandiera,
+99923	L	tutta  intenta a compilare moduli e a fare conti. Alle sue spalle
+99923	L	un  corridoio  porta  alle camere da letto. Un [0;40;33mcartello [0;40;37me' appeso
+99923	L	alla parete.
+99923	L	[0;40;37mUscite: [0;40;1;37mBasso
+99924	L	[0;40;37m[0;40;37m[0;40;37mVedi a  terra un  amuleto a forma  circolare meta' bianco  e   meta' nero.[0;40;1;30m (emette un forte ronzio)[0;40;37m
+99924	L	[0;40;37mNiobe la receptionist
+99924	L	[0;40;37m[0;40;37m[0;40;1;37mNiobe la receptionist brilla di luce propria!
+99924	L	[0;40;37m[0;40;37m[0;40;37m
+99980	P	Rigel H539 M597 V214 X-132.726.485 [[0;40;1;36mT[0;40;37m] */*>> [0;40;37m
+139753	C	di rig
+139912	L	Uso: [0;40;1;36mdimensione[0;40;37m (help) | [0;40;1;36mdimensione info[0;40;37m | [0;40;1;36mdimensione record[0;40;37m | [0;40;1;36mdimensione esci[0;40;37m (sala finale)
+139912	L	Immortali: [0;40;1;36mdimensione densita[0;40;37m | [0;40;1;36mdimensione premi[0;40;37m | [0;40;1;36mdimensione livelli[0;40;37m | [0;40;1;36mdimensione kit[0;40;37m | [0;40;1;36mdimensione scorta[0;40;37m
+139912	L	Piazza gruppo: pull -> push -> enter nebbia | solitario: touch fontana -> entra nel vortice
+139912	L	Ingresso: il capogruppo [0;40;1;36mtocca[0;40;37m un cristallo (verde/blu/rosso/arancione/fucsia) entro 90s
+139912	L	[0;40;37m
+139976	P	Rigel H539 M675 V226 X-132.726.485 [[0;40;1;36mT[0;40;37m] */*>> [0;40;37m
+150226	C	dimensione
+150404	L	[0;40;1;36m=== Dimensione Effimera ===[0;40;37m
+150404	L	In [0;40;1;36mPiazza delle Nebbie[0;40;37m (Fontana della Vita):
+150404	L	  [0;40;1;32mGruppo:[0;40;37m
+150404	L	  1) [0;40;1;36mpull fontana[0;40;37m - allontana lo spirito di DarkStar
+150404	L	  2) [0;40;1;36mpush fontana[0;40;37m - evoca il velo di nebbia
+150404	L	  3) [0;40;1;36menter nebbia[0;40;37m - entra con tutto il gruppo in piazza
+150404	L	  [0;40;1;32mSolitario:[0;40;37m (senza compagni di gruppo in piazza)
+150404	L	  1) [0;40;1;36mtouch fontana[0;40;37m - apre un vortice personale
+150404	L	  2) [0;40;1;36mentra nel vortice[0;40;37m - entra subito (il vortice scompare)
+150404	L	Dentro o con istanza attiva:
+150404	L	  [0;40;1;36mdimensione info[0;40;37m - stato, nemici, tesori, portale
+150404	L	  [0;40;1;36massolda[0;40;37m - in solitaria: scorta tank (frammenti+oro; spezza rune se serve)
+150404	L	  [0;40;1;36mtopinstances[0;40;37m - classifiche (today/monthly/lifetime/record)
+150404	L	  [0;40;1;36mdimensione record[0;40;37m - i tuoi record personali
+150404	L	  [0;40;1;36mpray darkstar aiuto[0;40;37m - tempio di rifugio o rientro
+150404	L	  [0;40;1;36mpray darkstar tempio[0;40;37m - al tempio dalla piazza (solo senza istanza attiva)
+150404	L	  Tempio DarkStar: [0;40;1;36mpray darkstar converti[0;40;37m - frammenti -> runa degli Dei
+150404	L	Sala finale (portale aperto):
+150404	L	  [0;40;1;36menter portale[0;40;37m oppure [0;40;1;36mdimensione esci[0;40;37m
+150404	L	Tesoro: abbatti il custode della dimensione - i cumuli si aprono e il bottino cade a terra
+150404	L	nelle stanze del tesoro; raccoglilo prima di uscire.
+150404	L	[0;40;37m
+150455	P	Rigel H539 M702 V230 X-132.726.485 [[0;40;1;36mT[0;40;37m] */*>> [0;40;37m
+167022	C	dimensione info
+167158	L	Non hai una Dimensione Effimera attiva.
+167158	L	Gruppo: pull/push/enter nebbia - solitario: touch fontana/entra nel vortice.
+167158	L	
+167215	P	Rigel H539 M728 V234 X-132.726.485 [[0;40;1;36mT[0;40;37m] */*>> [0;40;37m
+218791	L	
+218791	L	La tua [0;40;1;33marmatura magica[0;40;37m vacilla.
+218791	L	[0;40;37m[0;40;37m[0;40;37m
+218841	P	Rigel H539 M834 V250 X-132.726.485 [[0;40;1;36mT[0;40;37m] */*>> [0;40;37m

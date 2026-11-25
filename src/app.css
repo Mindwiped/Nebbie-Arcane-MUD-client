@@ -1,0 +1,226 @@
+:root {
+  --bg: #0d0f12;
+  --bg-panel: #151920;
+  --border: #262c36;
+  --text: #d6dae0;
+  --text-dim: #8a93a0;
+  --accent: #4fa3d9;
+  --font-mono: 'SF Mono', Menlo, Monaco, 'Cascadia Mono', Consolas, monospace;
+  --font-ui: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  color-scheme: dark;
+  --c-gold: #e5c07b;
+  --c-green: #98c379;
+  --c-red: #e06c75;
+  --c-red-strong: #ff5c6c;
+  --c-blue: #9fd3ff;
+  --err-bg: #3a1f22;
+  --err-text: #ffb3b8;
+  --sel-bg: #243142;
+  --sel-border: #2f4560;
+  --bg-sunken: #11161c;
+  --on-bg: #1f5236;
+  --on-border: #2f7a4c;
+  --on-text: #d9f7e4;
+  --tag-blue-bg: #23415c;
+  --tag-blue-fg: #cfe8ff;
+  --tag-amber-bg: #5c3a1a;
+  --tag-amber-fg: #ffd59a;
+  --tag-purple-bg: #2a2140;
+  --tag-purple-fg: #c9b8ff;
+  --c-purple-light: #e4dcff;
+  --danger-border: #8a3a3a;
+  --danger-text: #f0a0a0;
+  --bg-red: #6b1a1f;
+  --bg-green: #1d4a26;
+  --tip-bg: #000c;
+  --input-sel: #2c4f6b;
+  --gold-box-bg: #3a3220;
+  --gold-box-fg: #f0d27a;
+  --map-bg: #0f1216;
+  --map-grid: #171c22;
+  --map-exit: #8b939c;
+  --map-exit-other: #d19a66;
+  --map-exit-seen: #4b535c;
+  --map-room: #3b424a;
+  --map-room-sel: #56606b;
+  --map-room-border: #6b737c;
+  --map-room-border-sel: #c8d0d8;
+  --map-text: #d7dde3;
+  --map-updown: #9aa3ad;
+  --map-cur: #e5352b;
+  --echo: #d6c27a;
+  --btn-bg: #1d232c;
+  --btn-hover-border: #3a4554;
+  --primary-border: #2f5f86;
+  --primary-bg: #1f4565;
+  --primary-text: var(--text);
+  --field-bg: #10141a;
+  --focus: #2f6f9f;
+  --ansi-0: #4b5263;
+  --ansi-1: #e06c75;
+  --ansi-2: #98c379;
+  --ansi-3: #e5c07b;
+  --ansi-4: #61afef;
+  --ansi-5: #c678dd;
+  --ansi-6: #56b6c2;
+  --ansi-7: #c8ccd4;
+  --ansi-8: #7f848e;
+  --ansi-9: #ff7b86;
+  --ansi-10: #b5e890;
+  --ansi-11: #ffd98a;
+  --ansi-12: #82c4ff;
+  --ansi-13: #e09cf0;
+  --ansi-14: #7fdbe6;
+  --ansi-15: #ffffff;
+}
+
+/* Tema "nero": sfondo nero e testo più chiaro (contrasto alto). */
+:root[data-tema='nero'] {
+  --bg: #000;
+  --bg-panel: #0b0b0d;
+  --border: #34383f;
+  --text: #f2f4f7;
+  --text-dim: #aab2bd;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#app {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font-ui);
+  font-size: 14px;
+  overflow: hidden;
+}
+
+button,
+input,
+select,
+textarea {
+  font: inherit;
+  color: var(--text);
+}
+
+button {
+  padding: 4px 12px;
+  border: 1px solid var(--border);
+  border-radius: 5px;
+  background: var(--btn-bg);
+  cursor: pointer;
+}
+
+button:hover:not(:disabled) {
+  border-color: var(--btn-hover-border);
+}
+
+button:disabled {
+  opacity: 0.45;
+  cursor: default;
+}
+
+button.primary {
+  border-color: var(--primary-border);
+  background: var(--primary-bg);
+  color: var(--primary-text);
+}
+
+input:not([type='checkbox']),
+select,
+textarea {
+  padding: 5px 8px;
+  border: 1px solid var(--border);
+  border-radius: 5px;
+  background: var(--field-bg);
+}
+
+input:focus-visible,
+select:focus-visible,
+textarea:focus-visible,
+button:focus-visible {
+  outline: 2px solid var(--focus);
+  outline-offset: 0;
+}
+
+/* Tema chiaro: fondo chiaro e colori del MUD scuriti, altrimenti giallo e bianco non si leggono. */
+:root[data-tema='chiaro'] {
+  --bg: #f7f7f5;
+  --bg-panel: #ffffff;
+  --border: #d5d9de;
+  --text: #1f2328;
+  --text-dim: #5f6873;
+  --accent: #1f6fbf;
+  color-scheme: light;
+  --c-gold: #8a6400;
+  --c-green: #2d7a1f;
+  --c-red: #b4232a;
+  --c-red-strong: #c8102e;
+  --c-blue: #1f5fbf;
+  --err-bg: #fde8ea;
+  --err-text: #9b1c26;
+  --sel-bg: #dbe8f7;
+  --sel-border: #9dbbe0;
+  --bg-sunken: #eceef1;
+  --on-bg: #d3f0dc;
+  --on-border: #4f9a69;
+  --on-text: #14532d;
+  --tag-blue-bg: #dbeafe;
+  --tag-blue-fg: #1e3a8a;
+  --tag-amber-bg: #fdecc8;
+  --tag-amber-fg: #7a4a00;
+  --tag-purple-bg: #ede7fb;
+  --tag-purple-fg: #5b3fa8;
+  --c-purple-light: #4c2f93;
+  --danger-border: #d98a8a;
+  --danger-text: #a3202a;
+  --bg-red: #f8d0d3;
+  --bg-green: #cdeed6;
+  --tip-bg: #fffffff0;
+  --input-sel: #b9d4ee;
+  --gold-box-bg: #fbf0cf;
+  --gold-box-fg: #6b4e00;
+  --map-bg: #f3f4f6;
+  --map-grid: #e3e6ea;
+  --map-exit: #6b7280;
+  --map-exit-other: #b8641f;
+  --map-exit-seen: #b8bec6;
+  --map-room: #d5dae0;
+  --map-room-sel: #b7c0ca;
+  --map-room-border: #8a929c;
+  --map-room-border-sel: #2b3036;
+  --map-text: #1f2328;
+  --map-updown: #4b535c;
+  --map-cur: #d11f1f;
+  --echo: #7a5a00;
+  --btn-bg: #f1f3f5;
+  --btn-hover-border: #9aa4af;
+  --primary-border: #1f5fa8;
+  --primary-bg: #2b6cb0;
+  --primary-text: #ffffff;
+  --field-bg: #ffffff;
+  --focus: #2b6cb0;
+  --ansi-0: #2b2f36;
+  --ansi-1: #b4232a;
+  --ansi-2: #2d7a1f;
+  --ansi-3: #8a6400;
+  --ansi-4: #1f5fbf;
+  --ansi-5: #8f2fa3;
+  --ansi-6: #0f7a85;
+  --ansi-7: #3a3f47;
+  --ansi-8: #6b7280;
+  --ansi-9: #d0313b;
+  --ansi-10: #3c9a2a;
+  --ansi-11: #a37500;
+  --ansi-12: #2f74d9;
+  --ansi-13: #a63fbd;
+  --ansi-14: #13919d;
+  --ansi-15: #111418;
+}

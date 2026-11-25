@@ -1,0 +1,51 @@
+{
+  "name": "nebbie-client",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Client MUD desktop per Nebbie Arcane",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "tauri": "tauri",
+    "check": "svelte-check --tsconfig ./tsconfig.app.json && tsc -p tsconfig.test.json && tsc -p tsconfig.node.json",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "lint": "eslint .",
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "mock": "cargo run --manifest-path src-tauri/Cargo.toml --features mock --bin mock-server --",
+    "test:rust": "cargo test --manifest-path src-tauri/Cargo.toml",
+    "pacchetto": "RUSTFLAGS=\"--remap-path-prefix=$HOME=~\" tauri build",
+    "pacchetto:prova": "RUSTFLAGS=\"--remap-path-prefix=$HOME=~\" tauri build --config src-tauri/tauri.prova.conf.json",
+    "pacchetto:windows": "RUSTFLAGS=\"--remap-path-prefix=$HOME=~\" tauri build --runner cargo-xwin --target x86_64-pc-windows-msvc --bundles nsis"
+  },
+  "dependencies": {
+    "@codemirror/lang-javascript": "6.2.5",
+    "@codemirror/theme-one-dark": "6.1.3",
+    "@tauri-apps/api": "^2.12.4",
+    "@tauri-apps/plugin-dialog": "^2.8.4",
+    "@tauri-apps/plugin-notification": "2.8.0",
+    "codemirror": "6.0.2",
+    "dockview": "^8.9.0"
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "@sveltejs/vite-plugin-svelte": "^7.3.1",
+    "@tauri-apps/cli": "^2.12.4",
+    "@tsconfig/svelte": "^5.0.9",
+    "@types/node": "^26.6.6",
+    "eslint": "^10.14.0",
+    "eslint-plugin-svelte": "^3.24.1",
+    "globals": "^17.14.0",
+    "prettier": "^3.10.1",
+    "prettier-plugin-svelte": "^4.1.1",
+    "svelte": "^5.57.3",
+    "svelte-check": "^4.7.8",
+    "typescript": "^6.0.3",
+    "typescript-eslint": "^8.72.2",
+    "vite": "^8.3.8",
+    "vitest": "^4.1.12"
+  }
+}

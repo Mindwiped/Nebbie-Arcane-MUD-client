@@ -1,0 +1,960 @@
+{
+  "_nota": "Percorsi dal pacchetto Mudlet percorsi_ui.xml (versione installata il 2026-11-09). Nel path i comandi sono separati da virgole; un numero davanti a una direzione la ripete (2w = w,w).",
+  "zone": [
+    {
+      "zona": "Astral",
+      "voci": [
+        {
+          "nome": "Myst",
+          "nota": "pool bianco latte",
+          "path": "n"
+        },
+        {
+          "nome": "Ancient Road",
+          "nota": "pool turchese",
+          "path": "u,n,e"
+        },
+        {
+          "nome": "Scacchiera",
+          "nota": "pool scacchiera",
+          "path": "u,n,w"
+        },
+        {
+          "nome": "Torre Magia",
+          "nota": "pool oro fuso",
+          "path": "u,n,w,n"
+        },
+        {
+          "nome": "Fiume Anime Perdute",
+          "nota": "pool blu notte",
+          "path": "u,n,2w"
+        },
+        {
+          "nome": "golden cave (Delfin thief master)",
+          "nota": "pool grigio scuro",
+          "path": "u,n,2w,s"
+        },
+        {
+          "nome": "Drow City",
+          "nota": "pool grigio fumo",
+          "path": "u,n,2w,n"
+        },
+        {
+          "nome": "Old Thalos (fabbro esperto)",
+          "nota": "pool rosso",
+          "path": "u,n,2w,n,e"
+        },
+        {
+          "nome": "KarrHurgon",
+          "nota": "pool granito",
+          "path": "u,n,2w,2n"
+        },
+        {
+          "nome": "fogne",
+          "nota": "pool nero inchiostro",
+          "path": "u,n,2w,n,w"
+        },
+        {
+          "nome": "Camelot",
+          "nota": "pool verde campi primaverili",
+          "path": "u,n,2w,n,u"
+        },
+        {
+          "nome": "carrion crawler - hill giant",
+          "nota": "pool verde e giallo",
+          "path": "u,n,2w,n,u,e"
+        },
+        {
+          "nome": "grecia (pirate leader)",
+          "nota": "pool verde marino",
+          "path": "u,n,2w,n,u,w"
+        },
+        {
+          "nome": "foresta ragni (Yevaud)",
+          "nota": "pool grigio",
+          "path": "u,n,2w,n,u,w,u,e"
+        },
+        {
+          "nome": "Trogloditi",
+          "nota": "pool grigio",
+          "path": "u,n,2w,n,u,w,u,s"
+        },
+        {
+          "nome": "Canguri (ex Roo)",
+          "nota": "pool verde polvere",
+          "path": "u,n,2w,n,u,w,u,w"
+        },
+        {
+          "nome": "Licantropia",
+          "nota": "pool marrone",
+          "path": "u,n,2w,n,u,w,u,n"
+        },
+        {
+          "nome": "Abyss",
+          "nota": "pool grigio spento",
+          "path": "u,n,2w,n,u,w,2u"
+        }
+      ]
+    },
+    {
+      "zona": "Abyss",
+      "voci": [
+        {
+          "nome": "Ingresso",
+          "nota": "da: Astral",
+          "path": "u,n,w,w,n,u,w,u,u"
+        },
+        {
+          "nome": "Hydra",
+          "nota": "da: ingresso Abyss",
+          "path": "n,n,u"
+        },
+        {
+          "nome": "Giro mob (Death Knight > Ancient Blue Dragon)",
+          "nota": "da: discarica di Myst",
+          "path": "d,w,d,n,d,d,d,n,w,n,n,d,d,n,n,w,w,w,n,n,n,n,s,e,n,e,e,s,e,n,w,w,w,w,w,w,w,e,e,e,e,e,e,e,s,e,u,w,d,d,d,d,d,e,e,w,w,w,d,w,w,w,w,w,u,w,w,w,e",
+          "info": "note: death knight, kraken, treant, Efreet, Neo-Otyugh, Salamander, Ancient Blue Dragon"
+        },
+        {
+          "nome": "High Priest (Skull Ring)",
+          "nota": "da: Myst",
+          "path": "d,e,e,s,e,e,e,s,s,s,e,e,e,d,w,d,n,d,d,d,n,w,n,n,d,d,n,n,e,e,n,n,n,s,e,n,e,e,s,e,e,u,w,d,d,d,d,d,w,d,w,w,w,w,w,u,w,w,s,w,d,s,s,s,s,e,e,e,s,u,u,e"
+        }
+      ]
+    },
+    {
+      "zona": "Ade",
+      "voci": [
+        {
+          "nome": "Giro completo (Cerberus > Nemo)",
+          "nota": "da: partenza non indicata (stesso inizio di Grecia)",
+          "path": "run w,s,w,s,w,n,w,w,s,w,w,w,w,w,w,n,n,n,e,e,n,d,d,e,e,e,s,s,e,e,w,s,e,w,s,w,e,e,w,n,n,w,n,n,n,n,w,w,w,s,w,w,w,w,w,w,w,w,n,n,e",
+          "info": "ATTENZIONE: finisce alla mongolfiera | note: Grecia, Cerberus, Centauro, Vlad, Master, Roper, Giant, nemo, mongolfiera"
+        }
+      ]
+    },
+    {
+      "zona": "Akinra Piramide",
+      "voci": [
+        {
+          "nome": "Ingresso",
+          "nota": "da: fuori porta sud New Thalos",
+          "path": "s,s,w,s,u"
+        }
+      ]
+    },
+    {
+      "zona": "Apocalisse",
+      "voci": [
+        {
+          "nome": "Ingresso",
+          "nota": "da: Crocevia",
+          "path": "w,w,w,w,n,n,n,e,e,n,e,n,w,n,n,n,n,n,u,e,u,e,u,e,u,n,n,n"
+        }
+      ]
+    },
+    {
+      "zona": "Atlantide",
+      "voci": [
+        {
+          "nome": "Ingresso (pool verde marino)",
+          "nota": "da: Astral",
+          "path": "u,n,w,w,n,u,w,w",
+          "info": "ATTENZIONE: nel file c'e' una w in piu' rispetto alla pool Grecia: da verificare"
+        },
+        {
+          "nome": "Giro (Platone > Serendib)",
+          "nota": "da: uscita pool",
+          "path": "n,w,s,w,run d,s,s,s,s,s,s,s,s,s,s,e,w,w,e,s,n,n,e,e,u,u,d,d,w,w,w,w,u,u,d,d,e,e,n,n,n,n,n,n,e,s,s,e,e,u,e,s,w,w,w,s,s,s,e,s,w,s",
+          "info": "note: Platone, tritone, tritone, poseidon, Sarthan, Dracur, Serendib"
+        },
+        {
+          "nome": "Orun",
+          "nota": "da: Serendib",
+          "path": "n,e,n,w,n,n,e",
+          "info": "note: muro-(Orun"
+        },
+        {
+          "nome": "Platone",
+          "nota": "da: Astral",
+          "path": "u,n,w,w,n,u,w,enter pool,n,w,s,w"
+        }
+      ]
+    },
+    {
+      "zona": "Avamposto Elfico",
+      "voci": [
+        {
+          "nome": "Ingresso",
+          "nota": "da: fuori porta nord-ovest Mordilnia",
+          "path": "w,w,w,s,e"
+        }
+      ]
+    },
+    {
+      "zona": "BofGorRak",
+      "voci": [
+        {
+          "nome": "Cittadella dei Nani (senza diligenza)",
+          "nota": "da: Crocevia",
+          "path": "e,e,e,e,e,e,e,e,e,e,e,n,e,e,n,n,n,e,n,n,n,n,w,w,w,w,n,e,n,w,n"
+        }
+      ]
+    },
+    {
+      "zona": "Brass Dragon",
+      "voci": [
+        {
+          "nome": "1 - fino al Rope Bridge",
+          "nota": "da: porta sud New Thalos",
+          "path": "open gate,s,s,s,s,s,s,w,s,w",
+          "info": "ATTENZIONE: poi aspetta il teleport"
+        },
+        {
+          "nome": "2 - dopo il teleport",
+          "nota": "da: arrivo del teleport",
+          "path": "w,w"
+        }
+      ]
+    },
+    {
+      "zona": "Cacciatore Halfling",
+      "voci": [
+        {
+          "nome": "Cacciatore",
+          "nota": "da: Crocevia",
+          "path": "w,w,w,w,n,w,n,n,e,e,e,e,s,s,s,s,s,s,w,u"
+        }
+      ]
+    },
+    {
+      "zona": "Camelot",
+      "voci": [
+        {
+          "nome": "Ingresso",
+          "nota": "da: Astral",
+          "path": "u,n,w,w,n,u"
+        },
+        {
+          "nome": "Paul (guildmaster cl over 40)",
+          "nota": "da: ingresso Camelot",
+          "path": "n,n,n,n,w,w,w,s,s,s,s,s,s"
+        }
+      ]
+    },
+    {
+      "zona": "Cet Bosco",
+      "voci": [
+        {
+          "nome": "Ingresso",
+          "nota": "da: Crocevia",
+          "path": "w,w,w,w,n,w,n,n,n"
+        },
+        {
+          "nome": "Lupo Mannaro (parziale)",
+          "nota": "da: Crocevia",
+          "path": "w,w,w,w,n,w,n,n,n,n,n,n,n,n,n,n,n,e,e,n,w,w,n,n,n,n,n,n,n,n,n,n,e,e,e,n,e,e,e,e,e,s,n,e,s,w,d,s,s,s,s,e,e,e,n,n",
+          "info": "ATTENZIONE: percorso incompleto, il mob cammina"
+        },
+        {
+          "nome": "Mago Noldor (parziale)",
+          "nota": "da: Crocevia",
+          "path": "w,w,w,w,n,w,n,n,n,n,n,n,n,n,n,cut rovo,e,e,e,s,dig muro,e",
+          "info": "ATTENZIONE: poi gira, di solito nel fungheto"
+        }
+      ]
+    },
+    {
+      "zona": "Death Knight",
+      "voci": [
+        {
+          "nome": "Death Knight",
+          "nota": "da: uscita pool blu notte",
+          "path": "run w,n,n,d,w,w,d,w,d,d,w,n,w,u,n",
+          "info": "ATTENZIONE: correnti: d* porta a sud, d** porta a w"
+        }
+      ]
+    },
+    {
+      "zona": "Dracolich",
+      "voci": [
+        {
+          "nome": "Dracolich",
+          "nota": "da: Astral",
+          "path": "u,n,w,w,enter pool,e,e,n,d,n,d"
+        }
+      ]
+    },
+    {
+      "zona": "Draconia",
+      "voci": [
+        {
+          "nome": "Ingresso",
+          "nota": "da: reception di Myst",
+          "path": "d,e,e,s,s,s,s,open south,s,s,s,e,e,e,e,e,e,e,e,e,e,e,n,e,e,n,n,n,e,n,e,e,e,e,e,s,e,e,s,e,e,s,e,e,e,e,e,e,e,e,s,e,e,e,e,s,e,e,e,e,e,e,e,e,e,e,e,e,n,n,n,n,e,n,e,n,n,n,e,n,w,n,n,n"
+        }
+      ]
+    },
+    {
+      "zona": "Drago Verde",
+      "voci": [
+        {
+          "nome": "Drago Verde",
+          "nota": "da: Crocevia",
+          "path": "w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,n,n,n,n,w,w,n,e"
+        }
+      ]
+    },
+    {
+      "zona": "Drow City",
+      "voci": [
+        {
+          "nome": "Menzoberranzan",
+          "nota": "da: Dracolich",
+          "path": "d"
+        }
+      ]
+    },
+    {
+      "zona": "Emeral",
+      "voci": [
+        {
+          "nome": "Ingresso",
+          "nota": "da: Crocevia",
+          "path": "w,w,w,w,n,w,n,n,e,e,e,e,e,n,n"
+        }
+      ]
+    },
+    {
+      "zona": "Fiume delle Nebbie",
+      "voci": [
+        {
+          "nome": "Sofora",
+          "nota": "da: Crocevia",
+          "path": "run w,s,w,s,w,n,w,w,s,w,w,w,w,w,w,n,n,n,e,e,s",
+          "info": "note: grecia, sofora"
+        },
+        {
+          "nome": "Relitto",
+          "nota": "da: Sofora",
+          "path": "s,s,s,s,w,w,w"
+        }
+      ]
+    },
+    {
+      "zona": "Foresta di Gwyldan",
+      "voci": [
+        {
+          "nome": "Ingresso",
+          "nota": "da: Crocevia",
+          "path": "s,s,s,s,s,w"
+        },
+        {
+          "nome": "Leprecauno (coppa di vino)",
+          "nota": "da: Crocevia",
+          "path": "s,s,s,s,s,w,w,n,n,n,e,e,e,e,s,e,e,s,e"
+        }
+      ]
+    },
+    {
+      "zona": "Foresta di Xan",
+      "voci": [
+        {
+          "nome": "Xan",
+          "nota": "da: Crocevia",
+          "path": "run s,e,run s,w,s,s,s,s,s,s,s,w,w,w,w,s,s,s,s,s,w,s,s,s,s,s,s,e,e,s,w,s,s",
+          "info": "note: Xan"
+        }
+      ]
+    },
+    {
+      "zona": "Ghardaia",
+      "voci": [
+        {
+          "nome": "Straccione",
+          "nota": "da: fuori porta meridionale New Thalos",
+          "path": "s,e,e,s,s,s,s,e,s,w,s,s,s,s,s,s,s,w,w,w,w,w,n,n,n,n,n,n,d,s,s",
+          "info": "ATTENZIONE: poi track: lo straccione si muove | note: tuareg, Maharabutto, tuareg, poi track - lo straccione si muove, con un *gust of wind* smette"
+        },
+        {
+          "nome": "Uscita 1 - fino al teleport",
+          "nota": "da: Alle Porte di Ghardaia",
+          "path": "s,s,e,e,s,open s,s,u,u,u,d",
+          "info": "ATTENZIONE: teleport cratere ove gorgoglia il tempo"
+        },
+        {
+          "nome": "Uscita 2 - dopo il teleport",
+          "nota": "da: cratere",
+          "path": "n,n,w,w,n,n"
+        }
+      ]
+    },
+    {
+      "zona": "Grecia",
+      "voci": [
+        {
+          "nome": "Ingresso",
+          "nota": "da: Crocevia",
+          "path": "run w,s,w,s,w,n,w,w,s,w,w,w,w,w,w"
+        },
+        {
+          "nome": "Ingresso (pool verde marino)",
+          "nota": "da: Astral",
+          "path": "u,n,w,w,n,u,w"
+        }
+      ]
+    },
+    {
+      "zona": "Hell",
+      "voci": [
+        {
+          "nome": "Giro completo (Medusa > Slavalous)",
+          "nota": "da: fontana di Myst",
+          "path": "s,e,e,e,run s,n,n,s,s,open trapdoor,d,n,n,n,d,s,s,s,s,s,w,n,n,n,d,w,open secret,s,w,s,w,n,w,s,s,s,e,w,n,e,w,n,w,e,s,w,e,s,w,w,n",
+          "info": "note: medusa, ghost, lich, dogretch, mahat, rilke, Balor, Vampire, hellhoundx2, Slavalous"
+        }
+      ]
+    },
+    {
+      "zona": "Hill Giant",
+      "voci": [
+        {
+          "nome": "Ingresso (pool verde e giallo)",
+          "nota": "da: Astral",
+          "path": "u,n,w,w,n,u,e"
+        }
+      ]
+    },
+    {
+      "zona": "Isgha",
+      "voci": [
+        {
+          "nome": "1 - fino alla grata",
+          "nota": "da: diligenza New Thalos",
+          "path": "e,e,e,e,e,e,e,s,s,e,e",
+          "info": "ATTENZIONE: pick/doorbash grata"
+        },
+        {
+          "nome": "2 - dopo la grata",
+          "nota": "da: grata aperta",
+          "path": "d,e,e,s",
+          "info": "ATTENZIONE: attinie con veleno mortale; poi teleport"
+        },
+        {
+          "nome": "Ingresso alternativo (parziale)",
+          "nota": "da: diligenza New Thalos",
+          "path": "e,e,e,e,e,e,e,s,s,e,e,s,s,s,s,s,s,open gate,s,s,e,e,e,n,e,e,n,w",
+          "info": "ATTENZIONE: continua a w fino al villaggio | note: passo dello scorpione rosso"
+        },
+        {
+          "nome": "Drago roccia",
+          "nota": "da: teleport del villaggio",
+          "path": "s,s,w,w,w,w,w,w,w,w,w,n,n,n,e",
+          "info": "ATTENZIONE: poi lift roccia, s, unlock roccia"
+        },
+        {
+          "nome": "Formicaio",
+          "nota": "da: porta w del villaggio",
+          "path": "w,w,w,w,s,w,w,s,s,w,w,d,d,d",
+          "info": "ATTENZIONE: vermi in hide, formiche con veleno mortale | note: attenzione ai vermi in hide, w formicaleone, s divoratore, attenzione alle formiche, le mercenarie hanno veleno mortale"
+        }
+      ]
+    },
+    {
+      "zona": "KarrHurgon",
+      "voci": [
+        {
+          "nome": "Ingresso",
+          "nota": "da: reception di Myst",
+          "path": "d,e,e,s,s,s,s,s,s,s,e,e,e,e,e,e,e,e,e,e,e,n,e,e,n,n,n,e,n,n,n,n,w,n,n,n",
+          "info": "ATTENZIONE: poi push roccia e strada a nord"
+        }
+      ]
+    },
+    {
+      "zona": "La Contea",
+      "voci": [
+        {
+          "nome": "Ingresso",
+          "nota": "da: Crocevia",
+          "path": "w,w,w,w,n,w,s"
+        }
+      ]
+    },
+    {
+      "zona": "Monolito",
+      "voci": [
+        {
+          "nome": "Ingresso",
+          "nota": "da: dentro porta sud-est Mordilnia",
+          "path": "e,e,e,e,e,e,w,e,e,e,e,run n"
+        },
+        {
+          "nome": "SporeMan 1 - fino alle guardie",
+          "nota": "da: fine di Ingresso (Skull Road, davanti al gate)",
+          "path": "open n,n,open n,n,u,u,open n,n,n,n,open n,n,e",
+          "info": "ATTENZIONE: apre gate, porta della torre, porta in cima e porta di smeraldo. Zona senza mana: niente incantesimi"
+        },
+        {
+          "nome": "SporeMan 2 - guardie (clicca 2 volte)",
+          "nota": "da: South-East Yard",
+          "path": "kill gua",
+          "info": "ATTENZIONE: un click per guardia, aspetta che la prima muoia"
+        },
+        {
+          "nome": "SporeMan 3 - chiave e prigione",
+          "nota": "da: South-East Yard",
+          "path": "get all corp,get all 2.corp,unlock east,open east,e,e,s,s,open east,e,kill prisoner",
+          "info": "ATTENZIONE: prende la glowing key, apre le porte; il prisoner attacca appena entri"
+        },
+        {
+          "nome": "SporeMan 4 - Spore Man",
+          "nota": "da: Prison cell",
+          "path": "s,kill man",
+          "info": "ATTENZIONE: lo Spore Man e' nascosto e appare attaccandoti"
+        },
+        {
+          "nome": "SporeMan 5 - loot",
+          "nota": "da: Damp Room",
+          "path": "get all corp"
+        }
+      ]
+    },
+    {
+      "zona": "Mordilnia",
+      "voci": [
+        {
+          "nome": "Porte South East di Mordilnia",
+          "nota": "da: Piazza delle Nebbie (Myst)",
+          "path": "14s,e,14s,w,10s,w,4s,e,s,2e,2s,2e,s"
+        }
+      ]
+    },
+    {
+      "zona": "Mordor",
+      "voci": [
+        {
+          "nome": "1 - fino al crollo",
+          "nota": "da: dentro porta nord Mordilnia",
+          "path": "s,s,s,w,w,w,w,w,w,w,w,s,s,s,s,s,s,s,s,e,e,e,n,u,u,u,run e",
+          "info": "ATTENZIONE: aspetta il crollo"
+        },
+        {
+          "nome": "2 - dopo il crollo (Gorbag > Sale Olog)",
+          "nota": "da: dopo il crollo",
+          "path": "d,e,u,n,d,n,e,e,e,n,e,e,e,e,e,e,e,e,e,e,n,n,e,e,e,e,e,s,s,u,u,n,n,e,e,s,w,e,n,w,w,n,e,n,e,s,s,s,s,d,e,s,e,n,n,e",
+          "info": "note: Gorbag, Shagrat, porta, porta, gemma, Cavalcature, porte, Sale Olog"
+        },
+        {
+          "nome": "Accampamento (Capo)",
+          "nota": "da: Shagrat",
+          "path": "s,e,s,s,w,w,n,w,n,e,w,w,s,w,e,s,n,n,s,e,s,w",
+          "info": "note: la palizzata, porta_e, Capo"
+        },
+        {
+          "nome": "Forziere (parziale)",
+          "nota": "da: dentro porta nord Mordilnia",
+          "path": "s,s,s,w,w,w,w,w,w,w,w,s,s,s,s,s,s,s,s,e,e,e,n,u,u,u,e,s,s,e,e,s,s,e,n",
+          "info": "ATTENZIONE: poi doorbash o cut ragnatele, e. Un nord di troppo = Shelob"
+        },
+        {
+          "nome": "Sciamano di Aagh",
+          "nota": "da: dentro porta nord Mordilnia",
+          "path": "s,s,s,w,w,w,w,w,w,w,w,s,s,s,s,s,s,s,s,e,e,e,n,u,u,u,e,s,s,e,n,e,turn pomello,s,s"
+        }
+      ]
+    },
+    {
+      "zona": "Municipio",
+      "voci": [
+        {
+          "nome": "Municipio",
+          "nota": "da: Niobe",
+          "path": "d,e,e,s,s,w,s"
+        }
+      ]
+    },
+    {
+      "zona": "Old Thalos",
+      "voci": [
+        {
+          "nome": "Ingresso",
+          "nota": "da: Astral",
+          "path": "u,n,w,w,n,e"
+        },
+        {
+          "nome": "A piedi nel deserto",
+          "nota": "da: porta sud New Thalos",
+          "path": "open gate,s,s,s,s,s,s,w,s,w,w,s,s,s,w",
+          "info": "ATTENZIONE: non fermarti sul Rope Bridge | note: senza fermarsi sul Rope Bridge"
+        }
+      ]
+    },
+    {
+      "zona": "Olimpo",
+      "voci": [
+        {
+          "nome": "Ingresso (Porta degli Dei)",
+          "nota": "da: Astral",
+          "path": "u,n,2w,n,u,w,ent pool,6e,n,2u",
+          "info": "ATTENZIONE: nell'oceano di Graecia il vento puo' deviarti: se dopo la pool non arrivi a Graecian Bay correggi a mano | pool verde marino, come Grecia"
+        },
+        {
+          "nome": "00 Mago delle stelle (chiave di Artemide)",
+          "nota": "da: Porta degli Dei",
+          "path": "e,2s,w",
+          "info": "mob vagante: nel log ucciso in Traversa del Cortile, poi in Cortile orientale e Terrazza del Grano. Serve la sua chiave per Artemide | altri mob vaganti: oplita della via sacra, ladro d'ombra, sacerdotessa del culmine (cortili), barbaro pellegrino, aquila divina (terrazze e alloro), aquila del tuono (con Zeus)"
+        },
+        {
+          "nome": "01 Artemide (porta a nord)",
+          "nota": "da: Traversa del Cortile",
+          "path": "e,u,2e",
+          "info": "arrivi in Giardino dell'Alloro: apri la porta a nord (serve la chiave di Artemide, cade dal mago delle stelle) ed entra | lascia la chiave di Ares"
+        },
+        {
+          "nome": "02 Ares (porta a sud)",
+          "nota": "da: Santuario di Artemide (Artemide)",
+          "path": "s,2w,d,n,3e",
+          "info": "arrivi in Cortile sud-occidentale: apri la porta a sud (serve la chiave di Ares, cade da Artemide) ed entra | lascia la chiave di Pan (chiave di corno grezzo)"
+        },
+        {
+          "nome": "03 Pan (porta a nord)",
+          "nota": "da: Campo di Ares (Ares)",
+          "path": "5n,u,4e",
+          "info": "arrivi in Radura dei Pini: apri la porta a nord (serve la chiave di Pan, cade da Ares) ed entra | lascia la chiave di Ebe"
+        },
+        {
+          "nome": "04 Ebe (porta a sud)",
+          "nota": "da: Bosco di Pan (Pan)",
+          "path": "s,2w,s,3w",
+          "info": "arrivi in Ala del Nettare: apri la porta a sud (serve la chiave di Ebe, cade da Pan) ed entra | lascia la chiave di Iris"
+        },
+        {
+          "nome": "05 Iris (porta a nord)",
+          "nota": "da: Sala di Ebe (Ebe)",
+          "path": "3n,e",
+          "info": "arrivi in Ballatoio dell'Arcobaleno: apri la porta a nord (serve la chiave di Iris, cade da Ebe) ed entra | lascia la chiave di Afrodite"
+        },
+        {
+          "nome": "06 Afrodite (porta a nord)",
+          "nota": "da: Ponte di Iris (Iris)",
+          "path": "3s,d,4n",
+          "info": "arrivi in Giardino occidentale: apri la porta a nord (serve la chiave di Afrodite, cade da Iris) ed entra | lascia la chiave di Ecate (chiave nera a tre barbe)"
+        },
+        {
+          "nome": "07 Ecate (porta a est)",
+          "nota": "da: Camera di Afrodite (Afrodite)",
+          "path": "s,4e,u,2e,3s",
+          "info": "arrivi in Crocevia Ombroso: apri la porta a est (serve la chiave di Ecate, cade da Afrodite) ed entra | lascia la chiave delle Muse"
+        },
+        {
+          "nome": "08 Le Muse (porta a est)",
+          "nota": "da: Crocevia di Ecate (Ecate)",
+          "path": "w,3n,2w,2n,2e",
+          "info": "arrivi in Portico delle Arti: apri la porta a est (serve la chiave delle Muse, cade da Ecate) ed entra | lascia la chiave di Nike"
+        },
+        {
+          "nome": "09 Nike (porta a est)",
+          "nota": "da: Sala delle Muse (Le Muse)",
+          "path": "3w,2s,2e,s",
+          "info": "arrivi in Ripiano della Vittoria: apri la porta a est (serve la chiave di Nike, cade dalle Muse) ed entra | lascia la chiave di Demetra (chiave di legno vivo)"
+        },
+        {
+          "nome": "10 Demetra (porta a nord)",
+          "nota": "da: Altare di Nike (Nike)",
+          "path": "w,n,3w,n",
+          "info": "arrivi in Terrazza del Grano: apri la porta a nord (serve la chiave di Demetra, cade da Nike) ed entra | lascia la chiave di Estia"
+        },
+        {
+          "nome": "11 Estia (porta a ovest)",
+          "nota": "da: Campi di Demetra (Demetra)",
+          "path": "2s",
+          "info": "arrivi in Colonnato del Focolare: apri la porta a ovest (serve la chiave di Estia, cade da Demetra) ed entra | lascia la chiave di Era"
+        },
+        {
+          "nome": "12 Era (porta a nord)",
+          "nota": "da: Focolare di Estia (Estia)",
+          "path": "2e,d,2w",
+          "info": "arrivi in Cortile settentrionale: apri la porta a nord (serve la chiave di Era, cade da Estia) ed entra | lascia la chiave di Asclepio"
+        },
+        {
+          "nome": "13 Asclepio (porta in basso)",
+          "nota": "da: Sala di Era (Era)",
+          "path": "s,2e,u,w,d",
+          "info": "arrivi in Corridoio delle Erbe: apri la porta in basso (serve la chiave di Asclepio, cade da Era) ed entra | lascia la chiave di Dioniso"
+        },
+        {
+          "nome": "14 Dioniso (porta a est)",
+          "nota": "da: Santuario di Asclepio (Asclepio)",
+          "path": "2u,e,d,2s",
+          "info": "arrivi in Cortile sud-orientale: apri la porta a est (serve la chiave di Dioniso, cade da Asclepio) ed entra | lascia la chiave di Ermes"
+        },
+        {
+          "nome": "15 Ermes (porta a ovest)",
+          "nota": "da: Vigne di Dioniso (Dioniso)",
+          "path": "w,3n",
+          "info": "arrivi in Giardino meridionale: apri la porta a ovest (serve la chiave di Ermes, cade da Dioniso) ed entra | lascia la chiave di Eolo"
+        },
+        {
+          "nome": "16 Eolo (porta a est)",
+          "nota": "da: Sala di Ermes (Ermes)",
+          "path": "e,s,u,4e,s",
+          "info": "arrivi in Spaccatura dei Venti: apri la porta a est (serve la chiave di Eolo, cade da Ermes) ed entra | lascia la chiave di Apollo"
+        },
+        {
+          "nome": "17 Apollo (porta a est)",
+          "nota": "da: Antro di Eolo (Eolo)",
+          "path": "w,n,4w,d",
+          "info": "arrivi in Cortile orientale: apri la porta a est (serve la chiave di Apollo, cade da Eolo) ed entra | lascia la chiave di Atena"
+        },
+        {
+          "nome": "18 Atena (porta a sud)",
+          "nota": "da: Sala del Sole (Apollo)",
+          "path": "w,n,e",
+          "info": "arrivi in Cortile meridionale: apri la porta a sud (serve la chiave di Atena, cade da Apollo) ed entra | lascia la chiave di Zeus"
+        },
+        {
+          "nome": "19 Zeus (porta a est)",
+          "nota": "da: Santuario di Atena (Atena)",
+          "path": "n,w,n,e",
+          "info": "arrivi in Piazzale del Fulmine: apri la porta a est (serve la chiave di Zeus, cade da Atena) ed entra | lascia la chiave del tesoro | sotto la sala del trono c'e' la Sala del Tesoro: apri la segreta in basso con la chiave del tesoro (dal corpo di Zeus) | attenzione all'aquila del tuono"
+        },
+        {
+          "nome": "Uscita (Porta degli Dei)",
+          "nota": "da: Sala del Tesoro",
+          "path": "u,3w"
+        }
+      ]
+    },
+    {
+      "zona": "Orchetti",
+      "voci": [
+        {
+          "nome": "Orchetto cuoco",
+          "nota": "da: Crocevia",
+          "path": "w,w,w,w,n,n,n,n,n,w,w,s,w,w,w,s,w,d,u,e"
+        }
+      ]
+    },
+    {
+      "zona": "Oscura Boscaglia",
+      "voci": [
+        {
+          "nome": "Korred",
+          "nota": "da: Crocevia",
+          "path": "w,w,w,w,w,w,w,w,w,w,w,w,s,s,w,w,s,run e,run n"
+        }
+      ]
+    },
+    {
+      "zona": "Quainor",
+      "voci": [
+        {
+          "nome": "Ingresso",
+          "nota": "da: Crocevia",
+          "path": "w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,s,s,s,w,w,w,w,s,e,lift grata,e,lift ponte,e"
+        }
+      ]
+    },
+    {
+      "zona": "Ragnarok",
+      "voci": [
+        {
+          "nome": "Ragnarok",
+          "nota": "da: Crocevia",
+          "path": "e,e,e,e,e,e,e,e,n,n,n,n,n",
+          "info": "ATTENZIONE: poi doorbash east, e. Mob hide aggressive"
+        }
+      ]
+    },
+    {
+      "zona": "Rhyiana",
+      "voci": [
+        {
+          "nome": "Ingresso",
+          "nota": "da: Crocevia",
+          "path": "w,w,w,w,n,n,n,n,n,w,w,n"
+        }
+      ]
+    },
+    {
+      "zona": "Roo",
+      "voci": [
+        {
+          "nome": "Ingresso",
+          "nota": "da: Astral",
+          "path": "u,n,w,w,n,u,w,u,w"
+        }
+      ]
+    },
+    {
+      "zona": "Saladino",
+      "voci": [
+        {
+          "nome": "Saladino",
+          "nota": "da: Crocevia",
+          "path": "run e,s,s,e,n,e,e,open frasca,w,w,w,w,s,e,s,s,e,e,s,e,e,n,n"
+        },
+        {
+          "nome": "Sir Goldblum",
+          "nota": "da: Saladino",
+          "path": "s,s,w,w,n,w,n,n,n,n,n,w,n,n,w,w,w,n,n,n,n,n,w,n"
+        },
+        {
+          "nome": "Capi clan",
+          "nota": "da: Saladino",
+          "path": "s,s,w,w,n,w,n,w,w,w,w"
+        }
+      ]
+    },
+    {
+      "zona": "Sauria",
+      "voci": [
+        {
+          "nome": "Sauria",
+          "nota": "da: fuori porta nord New Thalos",
+          "path": "n,n,n,n,n,n,n,e,n,n,n,n,n,w,w,w,w,s,s,e,n,e,d",
+          "info": "ATTENZIONE: poppa ogni 15-20 minuti"
+        },
+        {
+          "nome": "Rat medallion",
+          "nota": "da: diligenza New Thalos",
+          "path": "e,e,e,e,e,e,e,n,n,e,e,n,n,n,n,n,n,n,open gate,n,n,n,n,n,n,n,e,n,n,n,n,n,w,w,w,w,s,s,lift roccia,e,n,e,d,n,n,n,n,n,n,n,n,n,turn roccia,e,e,e,s,open trapdoor,d",
+          "info": "note: NB: c'è solo il rat medallion in terra, basta get medallion"
+        }
+      ]
+    },
+    {
+      "zona": "Shea l'Arciere",
+      "voci": [
+        {
+          "nome": "Shea (prac spot)",
+          "nota": "da: Crocevia",
+          "path": "s,s,e,s,s,e,s,w,n,e,s,s"
+        }
+      ]
+    },
+    {
+      "zona": "Skexie",
+      "voci": [
+        {
+          "nome": "Gefling (Cleric, Weaponsmaster)",
+          "nota": "da: fuori porta nord-ovest Mordilnia",
+          "path": "w,w,w,n,n,n,n,n,n,n,n,w,w,d,d,d,w,w,w,s",
+          "info": "note: Gefling, Gefling Cleric, Weaponsmaster"
+        },
+        {
+          "nome": "Scribe, Palthor",
+          "nota": "da: Gefling",
+          "path": "w,s,w,d,run s,n,w,e,n,n,n,n,n,n,w",
+          "info": "note: Scribe, Palthor"
+        }
+      ]
+    },
+    {
+      "zona": "Skull Cave Fisher",
+      "voci": [
+        {
+          "nome": "Fisher",
+          "nota": "da: ingresso Trogloditi",
+          "path": "s,s,w,w,w,w,s,s,w,w,n,w,n,w"
+        }
+      ]
+    },
+    {
+      "zona": "Tor",
+      "voci": [
+        {
+          "nome": "Tor",
+          "nota": "da: Astral",
+          "path": "u,n,e,enter pool,s,s,s,s,s,s,w,w,w"
+        },
+        {
+          "nome": "Tor a piedi (approssimativo)",
+          "nota": "da: porta sud New Thalos",
+          "path": "s,s,e,e,e,n,e,e,s,s,s,s,s,s,s,s,w,w,w",
+          "info": "ATTENZIONE: percorso a spanne, da controllare | note: a spanne, qualcuno controlli"
+        }
+      ]
+    },
+    {
+      "zona": "Torre Magia",
+      "voci": [
+        {
+          "nome": "Ingresso",
+          "nota": "da: Astral",
+          "path": "u,n,w,n"
+        }
+      ]
+    },
+    {
+      "zona": "Villaggio",
+      "voci": [
+        {
+          "nome": "Preti tatuati",
+          "nota": "da: Crocevia",
+          "path": "w,w,w,w,w,w,w,w,w,n,n,w,w,n,e,n,e,e,e,n,w,open brush",
+          "info": "note: zona inizializzata"
+        }
+      ]
+    },
+    {
+      "zona": "Villaggio Goblin",
+      "voci": [
+        {
+          "nome": "Ingresso",
+          "nota": "da: Crocevia",
+          "path": "s,s,s,s,s,s,s,s,s,s,s,w"
+        }
+      ]
+    },
+    {
+      "zona": "Villaggio Tzigano",
+      "voci": [
+        {
+          "nome": "Ingresso",
+          "nota": "da: Crocevia",
+          "path": "e,e,e,e,e,e,e,e,e,e,e,n,e,e,n,n,n,e,n,e,e,e,e,e,s,e,e,e"
+        }
+      ]
+    },
+    {
+      "zona": "Warlock",
+      "voci": [
+        {
+          "nome": "Warlock",
+          "nota": "da: crocicchio del sud",
+          "path": "e,e,e,s,e,e,e,n,n,e,e,e,n,n,n,n,n,n"
+        }
+      ]
+    },
+    {
+      "zona": "Ymmrir",
+      "voci": [
+        {
+          "nome": "1 - fino al molo",
+          "nota": "da: Guardiacaccia di Xan",
+          "path": "e,e,e,e,s,s",
+          "info": "ATTENZIONE: aspetta di arrivare all'altro molo"
+        },
+        {
+          "nome": "2 - dal molo",
+          "nota": "da: altro molo",
+          "path": "w"
+        },
+        {
+          "nome": "Elric (Sala del Trono)",
+          "nota": "da: porto",
+          "path": "w,w,w,s,s,s,e,u,e,s,u,u",
+          "info": "note: Elric, Sala del Trono"
+        },
+        {
+          "nome": "Yyrkoom",
+          "nota": "da: Sala del Trono",
+          "path": "w,d,d,d,e,e,e,e,e,s,push pietra down,d,n,n,n,n,w,w,n,w,w",
+          "info": "note: ingresso, Yyrkoom"
+        }
+      ]
+    }
+  ]
+}
