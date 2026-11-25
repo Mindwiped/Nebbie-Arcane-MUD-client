@@ -5,8 +5,8 @@
 ### Pronto per GitHub (2026-11-25)
 - Licenza MIT (Mindwiped), README nuovo con certificato di firma e primo avvio spiegati passo
   passo, guida ai pannelli in `docs/GUIDA.md`.
-- Due ambienti: questo repository è lo sviluppo (nomi veri, fixture, `riferimenti/`) e non si
-  pubblica; `tools/pubblica.py` crea la copia di produzione epurata da pubblicare su GitHub.
+- La versione pubblicata è una copia del repository di sviluppo, senza le note di lavoro e con
+  nomi d'esempio al posto dei personaggi veri.
 - Le 74 abbreviazioni della vecchia guida sono scritte direttamente nel test.
 - mudder: una stanza segnaposto senza uscite (`null.wld`) non sostituisce più quella vera:
   l'Accademia di magia torna raggiungibile da Myst.
